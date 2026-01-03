@@ -1,0 +1,273 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        // "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": false,
+        "editor.wordWrap": "off",
+        "editor.formatOnType": true,
+    },
+    "mypy-type-checker.ignorePatterns": [
+        "**/site-packages/**/*.py",
+        ".vscode/*.py",
+        ".ignored/*.py"
+    ],
+    // "mypy-type-checker.args": [
+    //     "--follow-imports=normal",
+    //     "--ignore-missing-imports",
+    //     "--show-column-numbers",
+    //     "--no-pretty"
+    // ],
+    "python.languageServer": "Pylance",
+    "python.poetryPath": "poetry",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.semanticHighlighting.enabled": true,
+    "json.maxItemsComputed": 60000,
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "explorer.confirmDelete": false,
+    "launch": {
+        "configurations": [
+            {
+                "name": "Python: Current File; Debug Terminal",
+                "type": "debugpy",
+                "request": "launch",
+                "program": "${file}",
+                "console": "internalConsole",
+                "justMyCode": false,
+                "internalConsoleOptions": "openOnSessionStart"
+            }
+        ],
+        "compounds": []
+    },
+    "editor.renderWhitespace": "trailing",
+    "remote.SSH.remotePlatform": {
+        "192.168.0.239": "linux",
+        "192.168.0.221": "linux",
+        "192.168.0.171": "linux",
+        "172.23.116.103": "linux",
+        "192.168.100.25": "linux",
+        "192.168.0.241": "linux",
+        "Debdev": "linux",
+        "192.168.1.132": "linux"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "docker.contexts.label": "DockerEndpoint",
+    "docker.images.label": "FullTag",
+    "vscode-pets.theme": "forest",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "remoteHub.commitDirectlyWarning": "off",
+    "git.confirmSync": false,
+    "python.defaultInterpreterPath": "C:\\Users\\bent0\\.pyenv\\pyenv-win\\versions\\3.11.3\\python.exe",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "files.associations": {
+        "*.lua": "lua",
+        "*.json5": "jsonc"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.venv": true,
+        "**/.ruff_cache": true,
+        "**/node_modules": true
+    },
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.322.6-hotspot",
+            "default": true
+        }
+    ],
+    "http.systemCertificates": false,
+    "http.proxyStrictSSL": false,
+    "settingsSync.ignoredExtensions": [
+        "ms-azuretools.vscode-docker",
+        "vsciot-vscode.vscode-arduino",
+        "marlinfirmware.auto-build"
+    ],
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "debug.javascript.autoAttachFilter": "disabled",
+    "markdownlint.config": {
+        "ul-indent": {
+            "indent": 4
+        }
+    },
+    "cSpell.enableFiletypes": [
+        "!json",
+        "!jsonc",
+        "!plaintext",
+        "!python",
+        "!rust",
+        "!scss",
+        "!swift",
+        "!typescript",
+        "!vue",
+        "!yaml",
+        "!yml"
+    ],
+    "cSpell.language": "en,en-US",
+    "gitlens.hovers.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "prettier.printWidth": 80,
+        "prettier.semi": true,
+        "prettier.tabWidth": 4,
+        "prettier.trailingComma": "es5",
+        "prettier.useTabs": false
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.stickyScroll.enabled": true,
+    "todo-tree.highlights.enabled": false,
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "IDEA",
+        "FEAT"
+    ],
+    "editor.fontFamily": "Monaspace Neon Var, Monaspace Neon NF, Noto Emoji",
+    // "terminal.integrated.fontFamily": "Fira Code Regular, Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font, Consolas",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss08', 'calt'",
+    "editor.codeLensFontFamily": "Monaspace Krypton Var",
+    "yaml.schemaStore.enable": false,
+    "redhat.telemetry.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "auto-build.defaultEnv.name": "STM32F103RE_creality",
+    "auto-build.build.silent": false,
+    "arduino.useArduinoCli": true,
+    // CC:tweaked setings
+    "Lua.diagnostics.disable": [
+        "unused-local",
+        "lowercase-global",
+        "unused-function"
+    ],
+    "Lua.diagnostics.severity": {
+        "redefined-local": "Warning"
+    },
+    "Lua.diagnostics.globals": [
+        "printError",
+        "sleep",
+        "read",
+        "write",
+        "print",
+        "colours",
+        "colors",
+        "commands",
+        "disk",
+        "fs",
+        "gps",
+        "help",
+        "http",
+        "paintutils",
+        "parallel",
+        "peripheral",
+        "rednet",
+        "redstone",
+        "keys",
+        "settings",
+        "shell",
+        "multishell",
+        "term",
+        "textutils",
+        "turtle",
+        "pocket",
+        "vector",
+        "bit32",
+        "window",
+        "_CC_DEFAULT_SETTINGS",
+        "_HOST",
+        "_VERSION",
+        "_"
+    ],
+    "Lua.runtime.version": "Lua 5.1",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+    "lldb.suppressUpdateNotifications": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "prettier.printWidth": 80,
+        "prettier.semi": true,
+        "prettier.tabWidth": 4,
+        "prettier.trailingComma": "es5",
+        "prettier.useTabs": false
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "task.allowAutomaticTasks": "on",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "remote.localPortHost": "allInterfaces",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "craftos-pc.executablePath.windows": "C:\\Users\\bent0\\AppData\\Local\\CraftOS-PC\\CraftOS-PC_console.exe",
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+    },
+    "[dockercompose]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+    },
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "vue.server.hybridMode": false,
+    "platformio-ide.autoOpenPlatformIOIniFile": false,
+    "ansible.lightspeed.enabled": false,
+    "containers.contexts.label": "DockerEndpoint",
+    "containers.images.label": "FullTag",
+    "docker.extension.enableComposeLanguageServer": false,
+    "docker.lsp.telemetry": "error",
+    "telemetry.telemetryLevel": "crash",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "terminal.integrated.stickyScroll.enabled": false,
+    "python.analysis.typeCheckingMode": "standard",
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "mise.configureExtensionsAutomatically": false,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.nextEditSuggestions.enabled": true
+}
