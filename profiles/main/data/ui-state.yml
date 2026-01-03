@@ -1,7 +1,3 @@
-GitHub.codespaces: '{"performanceListKey":[{"codespaceId":"5b68aeb6-9d20-44e0-9874-0fb8d3bbf79d","performanceValues":{"createCodespaceTime":"1.856s","resumeCodespaceTime":""}},{"codespaceId":"a1f1180c-fc7d-4483-94e7-e69c2a03bda3","performanceValues":{"createCodespaceTime":"","resumeCodespaceTime":"13.022s"}}]}'
-GitHub.copilot: '{"installedVersion":"1.388.0"}'
-GitHub.copilot-chat: '{"exp.github.copilot.sku":"free_educational_quota","exp.github.copilot.isFcv1":false,"copilot-chat.terminalToDebugging.registered":{"location":"c:\\Users\\bent0\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand","version":"0.35.2/undefined"},"lastCollectFetcherTelemetryTime":1767476602180,"lastCollectFetcherTelemetryUUID":"cbbcac24-d0c0-454b-b11c-70d207290f95","lmBaseCount/gpt-4.1":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5-mini":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/oswe-vscode-prime":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-3.5-turbo":{"extensionVersion":"0.33.3","baseCount":189},"lmBaseCount/gpt-4o-mini":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-4":{"extensionVersion":"0.33.5","baseCount":189},"lmBaseCount/gpt-4-0125-preview":{"extensionVersion":"0.33.5","baseCount":189},"lmBaseCount/gpt-4o":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/grok-code-fast-1":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5.1":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5.1-codex":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5.1-codex-mini":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-5-codex":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/claude-sonnet-4":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/claude-sonnet-4.5":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/claude-opus-4.5":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/claude-haiku-4.5":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gemini-3-pro-preview":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gemini-2.5-pro":{"extensionVersion":"0.35.2","baseCount":189},"survey.usage":{"firstActive":1764268087808,"activeDays":[]},"commandEmbeddings-version-remote":"1764462888870","commandEmbeddings-version":"1.107","chat.debuggableCommands":{"languages":["scminput","ignore","properties"],"commands":["orry","command-line","here"]},"lmBaseCount/gpt-4o-mini-2024-07-18":{"extensionVersion":"0.33.5","baseCount":189},"lmBaseCount/gpt-4o-2024-11-20":{"extensionVersion":"0.33.5","baseCount":189},"lmBaseCount/gpt-5.1-codex-max":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-4.1-2025-04-14":{"extensionVersion":"0.33.5","baseCount":189},"lmBaseCount/gpt-5.2":{"extensionVersion":"0.35.2","baseCount":189},"lmBaseCount/gpt-3.5-turbo-0613":{"extensionVersion":"0.33.5","baseCount":189},"copilot.chat.nextEdits.hasEnabledNesInSettings":true,"lmBaseCount/gemini-3-flash-preview":{"extensionVersion":"0.35.2","baseCount":189},"settingEmbeddings-version-remote":"1764464376511","settingEmbeddings-version":"1.107"}'
-GitHub.remotehub: '{"9490b0f7b103046d2ebebfc01abac1f1/metadata/vscode-vfs://github/Stinky-c/aoc2024":"{\"schemaVersion\":1,\"revision\":\"56ca2558f245808b769fd937bc68f0b66ec0eed2\"}","workspaceRepositories":"{\"schemaVersion\":1,\"workspaceRepositories\":[[\"9490b0f7b103046d2ebebfc01abac1f1/vscode-vfs://github/Stinky-c/aoc2024\",{\"workspaceId\":\"9490b0f7b103046d2ebebfc01abac1f1\",\"uri\":{\"$mid\":1,\"fsPath\":\"\\\\Stinky-c\\\\aoc2024\",\"_sep\":1,\"external\":\"vscode-vfs://github/Stinky-c/aoc2024\",\"path\":\"/Stinky-c/aoc2024\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"canonicalUri\":{\"$mid\":1,\"path\":\"/Stinky-c/aoc2024\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"name\":\"Stinky-c/aoc2024\",\"provider\":{\"id\":\"github\",\"name\":\"GitHub\"},\"ref\":{\"type\":0,\"name\":\"day1\"},\"timestamp\":1733094014101}]]}"}'
 GitHub.vscode-pull-request-github: '{"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"],"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.chat.allowAnonymousAccess","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.githubPullRequests.codingAgent.uiIntegration","config.http.systemCertificatesNodecf","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;6abeh943:31336334;0574c672:31404437;cloudbuttont:31379625;todos-1:31405332;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31412086;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;anonusage:31403420;ec5jj548:31422691;c0683394:31419495;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.chat.allowAnonymousAccess":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.githubPullRequests.codingAgent.uiIntegration":true,"config.http.systemCertificatesNode":false,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true}'
 mhutchie.git-graph: '{"lastKnownGitPath":"C:\\Program Files\\Git\\cmd\\git.exe"}'
 ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1764268069647,"currentMonthSessions":1,"totalSessions":1},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1764268069735,"currentMonthSessions":1,"totalSessions":1}}'
@@ -93,682 +89,7 @@ ms-python.python: "{\"PYTHON_WAS_DISCOVERY_TRIGGERED_\\\\STINKY-C\\\\AOC2024\":\
   LE-HOMELAB\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\BENT0\\\\AP\
   PDATA\\\\LOCALLOW\\\\THEFARMERWASREPLACED\\\\THEFARMERWASREPLACED\\\\SAVES\\\
   \\SAVE0\":true}"
-ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["config.python.analysis.supportRestructuredText","config.python.locator","config.python.REPL.sendToNativeREPLcf","config.window.experimentalTitleBarStyle","copilotchat.workspaceChunkSearch.shouldEagerlyInitLocalIndex","copilotImplementAbstractClasses","copilot_ci","livesharecontinuousaacf","msEntraShowUpdateUserFlow","pythonRecommendTensorboardExt","pythonTerminalEnvVarActivation","pythonTestAdapter","validate_mi"],"assignmentContext":"vsliv368cf:30146710;py29gd2263:31024238;962ge761:30841072;pythontbext0:30879054;nativerepl2:31139839;pythonrstrctxt:31112756;nativeloc1:31118317;iacca1:31171482;6074i472:31201624;customenabled:31241370;hdaa2157:31222309;copilot_t_ci:31222730;jda6j935:31233686;","configs":[{"Id":"vscode","Parameters":{"config.python.analysis.supportRestructuredText":true,"config.python.locator":"native","config.python.REPL.sendToNativeREPL":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.workspaceChunkSearch.shouldEagerlyInitLocalIndex":true,"copilotImplementAbstractClasses":true,"copilot_ci":true,"livesharecontinuousaa":false,"msEntraShowUpdateUserFlow":true,"pythonRecommendTensorboardExt":true,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true,"validate_mi":true}}]}}'
 ms-toolsai.jupyter: '{"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/bent0/AppData/Roaming/jupyter/kernels","INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"VSCode.ABExp.FeatureData":{"features":["config.notebook.experimental.generate","config.python.analysis.supportRestructuredText","config.python.locator","config.python.REPL.sendToNativeREPLcf","config.window.experimentalTitleBarStyle","copilotchat.workspaceChunkSearch.shouldEagerlyInitLocalIndex","copilotImplementAbstractClasses","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","pythonRecommendTensorboardExt","pythonTerminalEnvVarActivation","pythonTestAdapter","shouldUseGrpcService","validate_mi"],"assignmentContext":"vsliv368cf:30146710;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;py29gd2263:31024239;c4g48928:30535728;962ge761:30959799;pythontbext0:30879054;nativerepl2:31139839;pythonrstrctxt:31112756;nativeloc1:31192215;iacca1:31171482;5fd0e150:31155592;6074i472:31201624;customenabled:31241370;hdaa2157:31222309;copilot_t_ci:31222730;jda6j935:31233686;","configs":[{"Id":"vscode","Parameters":{"config.notebook.experimental.generate":true,"config.python.analysis.supportRestructuredText":true,"config.python.locator":"native","config.python.REPL.sendToNativeREPL":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.workspaceChunkSearch.shouldEagerlyInitLocalIndex":true,"copilotImplementAbstractClasses":true,"copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"pythonRecommendTensorboardExt":true,"pythonTerminalEnvVarActivation":true,"pythonTestAdapter":true,"shouldUseGrpcService":true,"validate_mi":true}}]}}'
-ms-vscode-remote.remote-containers: '{"userConfirmedAttachToContainerRequiresTrust":true,"localExtensions":["attilabuti.brainfuck-syntax","charliermarsh.ruff","DavidAnson.vscode-markdownlint","EditorConfig.EditorConfig","esbenp.prettier-vscode","GitHub.codespaces","GitHub.github-vscode-theme","GitHub.remotehub","GitHub.vscode-pull-request-github","hediet.vscode-drawio","jeff-hykin.better-cpp-syntax","lemmmy.computercraft-extension-pack","ms-azuretools.vscode-docker","ms-dotnettools.vscode-dotnet-runtime","ms-python.python","ms-python.vscode-pylance","ms-toolsai.jupyter","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-ssh","ms-vscode-remote.remote-ssh-edit","ms-vscode-remote.remote-wsl","ms-vscode-remote.vscode-remote-extensionpack","ms-vscode.azure-repos","ms-vscode.cpptools-themes","ms-vscode.hexeditor","ms-vscode.remote-explorer","ms-vscode.remote-repositories","ms-vscode.remote-server","ms-vscode.vscode-markdown-notebook","ms-vscode.vscode-typescript-next","ms-vsliveshare.vsliveshare","Nuxt.mdc","Nuxtr.nuxt-vscode-extentions","PKief.material-icon-theme","redhat.java","redhat.vscode-xml","redhat.vscode-yaml","svelte.svelte-vscode","wholroyd.jinja","william-voyek.vscode-nginx"],"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.chat.allowAnonymousAccess","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.http.systemCertificatesNodecf","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;6abeh943:31336334;0574c672:31404437;todos-1:31405332;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31412086;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;anonusage:31403420;ec5jj548:31422691;c0683394:31419495;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.chat.allowAnonymousAccess":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.http.systemCertificatesNode":false,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode-remote.remote-ssh: "{\"folder.history.v1\":{\"192.168.1.132\":[\"/hom\
-  e/bucky/Projects/quartz-blog\",\"/home/bucky/Projects/aoc2024\"]},\"localExte\
-  nsions\":[\"adpyke.codesnap\",\"ahmadalli.vscode-nginx-conf\",\"antfu.goto-al\
-  ias\",\"attilabuti.brainfuck-syntax\",\"bierner.markdown-checkbox\",\"bradlc.\
-  vscode-tailwindcss\",\"charliermarsh.ruff\",\"codezombiech.gitignore\",\"Davi\
-  dAnson.vscode-markdownlint\",\"dbaeumer.vscode-eslint\",\"donjayamanne.githis\
-  tory\",\"DotJoshJohnson.xml\",\"ecmel.vscode-html-css\",\"EditorConfig.Editor\
-  Config\",\"esbenp.prettier-vscode\",\"foxundermoon.shell-format\",\"GitHub.co\
-  despaces\",\"GitHub.github-vscode-theme\",\"GitHub.remotehub\",\"github.vscod\
-  e-github-actions\",\"GitHub.vscode-pull-request-github\",\"Gruntfuggly.todo-t\
-  ree\",\"hediet.vscode-drawio\",\"JackMacWindows.craftos-pc\",\"JackMacWindows\
-  .vscode-computercraft\",\"jeff-hykin.better-cpp-syntax\",\"jithurjacob.nbprev\
-  iewer\",\"josetr.cmake-language-support-vscode\",\"lemmmy.computercraft-exten\
-  sion-pack\",\"mechatroner.rainbow-csv\",\"mhutchie.git-graph\",\"ms-azuretool\
-  s.vscode-docker\",\"ms-dotnettools.vscode-dotnet-runtime\",\"ms-python.black-\
-  formatter\",\"ms-python.debugpy\",\"ms-python.isort\",\"ms-python.mypy-type-c\
-  hecker\",\"ms-python.python\",\"ms-python.vscode-pylance\",\"ms-toolsai.jupyt\
-  er\",\"ms-toolsai.jupyter-renderers\",\"ms-toolsai.vscode-jupyter-cell-tags\",\
-  \"ms-toolsai.vscode-jupyter-slideshow\",\"ms-vscode-remote.remote-containers\
-  \",\"ms-vscode-remote.remote-ssh\",\"ms-vscode-remote.remote-ssh-edit\",\"ms-\
-  vscode-remote.remote-wsl\",\"ms-vscode-remote.vscode-remote-extensionpack\",\
-  \"ms-vscode.azure-repos\",\"ms-vscode.cpptools\",\"ms-vscode.cpptools-extensi\
-  on-pack\",\"ms-vscode.cpptools-themes\",\"ms-vscode.hexeditor\",\"ms-vscode.r\
-  emote-explorer\",\"ms-vscode.remote-repositories\",\"ms-vscode.remote-server\
-  \",\"ms-vscode.vscode-markdown-notebook\",\"ms-vscode.vscode-serial-monitor\",\
-  \"ms-vscode.vscode-typescript-next\",\"ms-vsliveshare.vsliveshare\",\"Nuxt.mdc\
-  \",\"Nuxtr.nuxt-vscode-extentions\",\"Nuxtr.nuxtr-vscode\",\"PKief.material-i\
-  con-theme\",\"platformio.platformio-ide\",\"Prunoideae.probejs\",\"raynigon.n\
-  ginx-formatter\",\"redhat.ansible\",\"redhat.vscode-xml\",\"redhat.vscode-yaml\
-  \",\"ritwickdey.LiveServer\",\"rust-lang.rust-analyzer\",\"skellock.just\",\"\
-  tamasfe.even-better-toml\",\"vadimcn.vscode-lldb\",\"VisualStudioExptTeam.int\
-  ellicode-api-usage-examples\",\"Vue.volar\",\"wholroyd.jinja\",\"william-voye\
-  k.vscode-nginx\",\"YoavBls.pretty-ts-errors\",\"zxh404.vscode-proto3\",\"zz58\
-  40.minecraft-lang-colorizer\"],\"remote.ssh.hints\":[{\"hints\":[{\"type\":\"\
-  environment\",\"message\":\"Extension setting 'useLocalServer' is set to value
-  'false'\",\"details\":\"Enables a mode for connecting using a single
-  connection shared between windows and across window reloads. This makes it
-  faster to open new windows and reduces the number of times a password needs to
-  be entered.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'useExecServer' is set to value 'true'\",\"details\":\"Uses the a new
-  bootstrapping mode when connecting to a server. Can be toggled off in the
-  event of connection
-  issues.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'bindHost' is set to value '{}'\",\"details\":\"Configures the host the VS
-  Code server will bind to on the remote server. It defaults to IPv4 localhost
-  and should only need modification in advanced
-  cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'showLoginTerminal' is set to value 'false'\",\"details\":\"Always reveal the
-  SSH login terminal.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'remotePlatform' is set to value
-  '{\\\"192.168.0.239\\\":\\\"linux\\\",\\\"192.168.0.221\\\":\\\"linux\\\",\\\
-  \"192.168.0.171\\\":\\\"linux\\\",\\\"172.23.116.103\\\":\\\"linux\\\",\\\"19\
-  2.168.100.25\\\":\\\"linux\\\",\\\"192.168.0.241\\\":\\\"linux\\\",\\\"Debdev\
-  \\\":\\\"linux\\\",\\\"192.168.1.132\\\":\\\"linux\\\"}'\",\"details\":\"A map
-  of the remote hostname to the platform for that remote. The hostname may
-  include a star '*' to wildcard match. Valid values: `linux`, `macOS`,
-  `windows`. Note - this setting will soon be required when
-  `#remote.SSH.useLocalServer#` is disabled, so it is currently being
-  autopopulated for successful connections, but is not currently
-  used.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'path' is
-  set to value 'undefined'\",\"details\":\"An absolute path to the SSH
-  executable. When empty, it will use \\\"ssh\\\" on the path or in common
-  install locations.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'configFile' is set to value 'undefined'\",\"details\":\"The absolute
-  file path to a custom SSH config
-  file.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'useFlock'
-  is set to value 'true'\",\"details\":\"Whether to use `flock` for creating
-  lockfiles on Linux remotes instead of `ln`. By default, we use `flock` on
-  Linux remotes and `ln` on
-  macOS.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'lockfilesInTmp' is set to value 'false'\",\"details\":\"Whether to keep
-  lockfiles in `/tmp` instead of in the server's install folder. Useful for
-  connecting to hosts which have issues with locking, such as hosts with a home
-  directory using NFS or another distributed
-  filesystem.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'localServerDownload' is set to value 'auto'\",\"details\":\"Whether the
-  extension can download the VS Code Server on the client and transfer it to the
-  host with scp, instead of downloading it on the
-  host.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'remoteServerListenOnSocket' is set to value 'false'\",\"details\":\"When
-  true, the remote VS Code server will listen on a socket path instead of
-  opening a port. Only valid for Linux and macOS remotes. After toggling this
-  setting, run the command \\\"Kill VS Code Server on Host...\\\" for it to take
-  effect. Requires OpenSSH 6.7+. Disables the \\\"local server\\\" connection
-  multiplexing mode. Requires `AllowStreamLocalForwarding` to be enabled for the
-  SSH server.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'defaultExtensions' is set to value '[]'\",\"details\":\"List of extensions
-  that should be installed automatically on all SSH
-  hosts.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'defaultExtensionsIfInstalledLocally' is set to value
-  '[]'\",\"details\":\"List of extensions that should be installed automatically
-  on all SSH hosts if they are already installed
-  locally.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'loglevel' is set to value
-  '2'\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'enableDynamicForwarding' is set to value 'true'\",\"details\":\"Whether to
-  use SSH dynamic forwarding to allow setting up new port tunnels over an
-  existing SSH connection. When this is used, a password only needs to be
-  entered once for each remote
-  window.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'enableRemoteCommand' is set to value
-  'false'\",\"details\":\"**Experimental:** Enable using RemoteCommands from ssh
-  config entries. This is only enabled if `#remote.SSH.useLocalServer#` is
-  enabled as well and the remote you are trying to connect to is not listed
-  under the `#remote.SSH.remotePlatform#`
-  setting.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'serverPickPortsFromRange' is set to value '{}'\",\"details\":\"A map of the
-  remote hostname to a range of ports you'd prefer the server to connect to on
-  launch on the **remote** machine. If no free port is found in range, an error
-  will be thrown. Valid ranges of the form `number-number` such as `4000-5000`;
-  it's expected the first number will be lower than the
-  next.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'serverInstallPath' is set to value '{}'\",\"details\":\"A map of remote host
-  to absolute path where the VS Code server will be installed. By default the
-  server is installed in the home directory of every remote. **Note**: By
-  changing this setting you may need to clean up other installations of
-  `.vscode-server` on your remote that isn't in the path you've
-  configured.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'permitPtyAllocation' is set to value 'false'\",\"details\":\"Permits the
-  system to allocate a pseudo-terminal for the SSH connection (by omitting the
-  '-T' SSH connection flag). This setting is disabled by default and may be
-  enabled to support specific
-  use-cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'preferredLocalPortRange' is set to value 'undefined'\",\"details\":\"A range
-  of **local** ports preferred to utilize for the SSH tunnel connection. If no
-  free port is found in range, an error will be thrown. Valid ranges of the form
-  `number-number` such as `4000-5000`; it's expected the first number will be
-  lower than the next.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'useCurlAndWgetConfigurationFiles' is set to value
-  'false'\",\"details\":\"Respect configuration from remote environment's
-  'curlrc' and 'wgetrc' files (placed in their respective default
-  locations).  Enabling this setting may be useful in certain cases (i.e: proxy
-  configuration) but can interfere with this extension's operation. Setting may
-  be ignored on platforms that do not support the necessary flags (i.e:
-  busybox).\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'experimental.chat' is set to value 'false'\",\"details\":\"Enables an
-  experimental Copilot Chat Participant.  Use natural language to learn about
-  Remote - SSH and diagnose connection issues.  For the best experience, use VS
-  Code Insiders and ensure you have the latest Copilot Chat extension
-  installed.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'experimental.enhancedSessionLogs' is set to value
-  'false'\",\"details\":\"Generates a summarized table of issues detected from
-  the previous session.\"},{\"type\":\"environment\",\"message\":\"VS Code
-  version: 1.97.1\"},{\"type\":\"environment\",\"message\":\"Remote-SSH version:
-  remote-ssh@0.117.1\"},{\"type\":\"environment\",\"message\":\"win32
-  x64\"},{\"type\":\"log\",\"message\":\"[10:31:26.877] Log Level:
-  2\\n[10:31:26.922] SSH Resolver called for \\\"ssh-remote+192.168.1.132\\\",
-  attempt 1\\n[10:31:26.927] remote.SSH.useLocalServer = false\\n[10:31:26.927]
-  remote.SSH.useExecServer = true\\n[10:31:26.928] remote.SSH.bindHost =
-  {}\\n[10:31:26.928] remote.SSH.showLoginTerminal = false\\n[10:31:26.928]
-  remote.SSH.remotePlatform =
-  {\\\"192.168.0.239\\\":\\\"linux\\\",\\\"192.168.0.221\\\":\\\"linux\\\",\\\"\
-  192.168.0.171\\\":\\\"linux\\\",\\\"172.23.116.103\\\":\\\"linux\\\",\\\"192.\
-  168.100.25\\\":\\\"linux\\\",\\\"192.168.0.241\\\":\\\"linux\\\",\\\"Debdev\\\
-  \":\\\"linux\\\",\\\"192.168.1.132\\\":\\\"linux\\\"}\\n[10:31:26.929]
-  remote.SSH.path = undefined\\n[10:31:26.929] remote.SSH.configFile =
-  undefined\\n[10:31:26.929] remote.SSH.useFlock = true\\n[10:31:26.929]
-  remote.SSH.lockfilesInTmp = false\\n[10:31:26.930]
-  remote.SSH.localServerDownload = auto\\n[10:31:26.930]
-  remote.SSH.remoteServerListenOnSocket = false\\n[10:31:26.930]
-  remote.SSH.defaultExtensions = []\\n[10:31:26.930]
-  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[10:31:26.930]
-  remote.SSH.loglevel = 2\\n[10:31:26.931] remote.SSH.enableDynamicForwarding =
-  true\\n[10:31:26.931] remote.SSH.enableRemoteCommand = false\\n[10:31:26.936]
-  remote.SSH.serverPickPortsFromRange = {}\\n[10:31:26.937]
-  remote.SSH.serverInstallPath = {}\\n[10:31:26.938]
-  remote.SSH.permitPtyAllocation = false\\n[10:31:26.939]
-  remote.SSH.preferredLocalPortRange = undefined\\n[10:31:26.940]
-  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[10:31:26.940]
-  remote.SSH.experimental.chat = false\\n[10:31:26.941]
-  remote.SSH.experimental.enhancedSessionLogs = false\\n[10:31:26.960] VS Code
-  version: 1.97.1\\n[10:31:26.960] Remote-SSH version:
-  remote-ssh@0.117.1\\n[10:31:26.960] win32 x64\\n[10:31:26.966] Found relevant
-  configuration for host 192.168.1.132 in JSON data\\n[10:31:26.966] SSH
-  Resolver called for host: 192.168.1.132\\n[10:31:26.966] Setting up SSH remote
-  \\\"192.168.1.132\\\"\\n[10:31:26.987] Using commit id
-  \\\"e249dada235c2083c83813bd65b7f4707fb97b76\\\" and quality \\\"stable\\\"
-  for server\\n[10:31:26.988] Extensions to install: \\n[10:31:26.999] Install
-  and start server if needed\\n[10:31:27.009] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe -V\\\"\\n[10:31:27.013] Got error
-  from ssh: spawn C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[10:31:27.014]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[10:31:27.015] Got
-  error from ssh: spawn C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[10:31:27.015]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
-  -V\\\"\\n[10:31:27.016] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe ENOENT\\n[10:31:27.016] Checking
-  ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  -V\\\"\\n[10:31:27.018] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  ENOENT\\n[10:31:27.018] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[10:31:27.070] >
-  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[10:31:27.078] Running script
-  with connection command:
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56211
-  \\\"192.168.1.132\\\" sh\\n[10:31:27.079] Generated SSH command: 'type
-  \\\"C:\\\\Users\\\\bent0\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-li\
-  ne-command-192.168.1.132-152352713.sh\\\" |
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56211
-  \\\"192.168.1.132\\\" sh'\\n[10:31:27.080] Using connect timeout of 17
-  seconds\\n[10:31:27.081] Terminal shell path:
-  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[10:31:27.454] > \\n[10:31:27.455] Got
-  some output, clearing connection timeout\\n[10:31:29.713] > 550fc0e8f232:
-  running\\n> Script executing under PID: 5504\\n> Found existing installation
-  at /home/bucky/.vscode-server...\\n> Starting VS Code CLI...\\n> Removing old
-  logfile at
-  /home/bucky/.vscode-server/.cli.e249dada235c2083c83813bd65b7f4707fb97b76.log\
-  \\n[10:31:29.751] > Spawned remote CLI: 5522\\n[10:31:29.759] > Waiting for
-  server log...\\n[10:31:29.783] > Waiting for server log...\\n[10:31:29.896] >
-  Waiting for server log...\\n[10:31:29.918] > 550fc0e8f232: start\\n>
-  listeningOn==127.0.0.1:38273==\\n> osReleaseId==debian==\\n>
-  arch==x86_64==\\n> vscodeArch==x64==\\n> bitness==64==\\n>
-  tmpDir==/run/user/1000==\\n> platform==linux==\\n> unpackResult====\\n>
-  didLocalDownload==0==\\n> downloadTime====\\n> installTime====\\n>
-  serverStartTime==139==\\n>
-  execServerToken==1a11a111-11aa-11a1-a1aa-111a1a111111==\\n>
-  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
-  DISPLAY====\\n> 550fc0e8f232: end\\n[10:31:29.918] Received install output:
-  \\nlisteningOn==127.0.0.1:38273==\\nosReleaseId==debian==\\narch==x86_64==\\n\
-  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
-  x==\\nunpackResult====\\ndidLocalDownload==0==\\ndownloadTime====\\ninstallTi\
-  me====\\nserverStartTime==139==\\nexecServerToken==1a11a111-11aa-11a1-a1aa-11\
-  1a1a111111==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUTH_SOCK====\\nD\
-  ISPLAY====\\n\\n[10:31:29.919] Remote server is listening on port
-  38273\\n[10:31:29.919] Parsed server configuration:
-  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":38273},\
-  \\\"osReleaseId\\\":\\\"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
-  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
-  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"1a11a111-11aa-11a1\
-  -a1aa-111a1a111111\\\"},\\\"serverStartTime\\\":139,\\\"installUnpackCode\\\":\
-  \\\"\\\"}\\n[10:31:29.926] Starting forwarding server. local port 56214 ->
-  socksPort 56211 -> remotePort 38273\\n[10:31:29.928] Forwarding server
-  listening on port 56214\\n[10:31:29.928] Waiting for ssh tunnel to be
-  ready\\n[10:31:29.930] [Forwarding server port 56214] Got connection
-  0\\n[10:31:29.932] Tunneled port 38273 to local port 56214\\n[10:31:29.932]
-  Resolved \\\"ssh-remote+192.168.1.132\\\" to \\\"port
-  56214\\\"\\n[10:31:29.945] Initizing new exec server for
-  ssh-remote+192.168.1.132\\n[10:31:29.945] Resolving exec server at port
-  56214\\n[10:31:29.949] [Forwarding server port 56214] Got connection
-  1\\n[10:31:30.498] Exec server for ssh-remote+192.168.1.132 created and
-  cached\\n[10:31:30.498] Extensions to install: \\n[10:31:30.499] Updating
-  terminal environments: {}\\n[10:31:30.503] TELEMETRY:
-  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
-  \"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
-  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
-  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
-  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
-  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"0\\\",\\\"outcome\\\
-  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
-  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":3583,\\\"timing.p\
-  reSshTime\\\":161,\\\"timing.establishSshTime\\\":2633,\\\"timing.scriptTime\\\
-  \":2838,\\\"timing.serverStartTime\\\":139}}\\n[10:31:30.511]
-  ------\\n\\n\\n\\n\"},{\"type\":\"log\",\"message\":\"[10:31:26.877] Log
-  Level: 2\\n[10:31:26.922] SSH Resolver called for
-  \\\"ssh-remote+192.168.1.132\\\", attempt 1\\n[10:31:26.927]
-  remote.SSH.useLocalServer = false\\n[10:31:26.927] remote.SSH.useExecServer =
-  true\\n[10:31:26.928] remote.SSH.bindHost = {}\\n[10:31:26.928]
-  remote.SSH.showLoginTerminal = false\\n[10:31:26.928]
-  remote.SSH.remotePlatform =
-  {\\\"192.168.0.239\\\":\\\"linux\\\",\\\"192.168.0.221\\\":\\\"linux\\\",\\\"\
-  192.168.0.171\\\":\\\"linux\\\",\\\"172.23.116.103\\\":\\\"linux\\\",\\\"192.\
-  168.100.25\\\":\\\"linux\\\",\\\"192.168.0.241\\\":\\\"linux\\\",\\\"Debdev\\\
-  \":\\\"linux\\\",\\\"192.168.1.132\\\":\\\"linux\\\"}\\n[10:31:26.929]
-  remote.SSH.path = undefined\\n[10:31:26.929] remote.SSH.configFile =
-  undefined\\n[10:31:26.929] remote.SSH.useFlock = true\\n[10:31:26.929]
-  remote.SSH.lockfilesInTmp = false\\n[10:31:26.930]
-  remote.SSH.localServerDownload = auto\\n[10:31:26.930]
-  remote.SSH.remoteServerListenOnSocket = false\\n[10:31:26.930]
-  remote.SSH.defaultExtensions = []\\n[10:31:26.930]
-  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[10:31:26.930]
-  remote.SSH.loglevel = 2\\n[10:31:26.931] remote.SSH.enableDynamicForwarding =
-  true\\n[10:31:26.931] remote.SSH.enableRemoteCommand = false\\n[10:31:26.936]
-  remote.SSH.serverPickPortsFromRange = {}\\n[10:31:26.937]
-  remote.SSH.serverInstallPath = {}\\n[10:31:26.938]
-  remote.SSH.permitPtyAllocation = false\\n[10:31:26.939]
-  remote.SSH.preferredLocalPortRange = undefined\\n[10:31:26.940]
-  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[10:31:26.940]
-  remote.SSH.experimental.chat = false\\n[10:31:26.941]
-  remote.SSH.experimental.enhancedSessionLogs = false\\n[10:31:26.960] VS Code
-  version: 1.97.1\\n[10:31:26.960] Remote-SSH version:
-  remote-ssh@0.117.1\\n[10:31:26.960] win32 x64\\n[10:31:26.966] Found relevant
-  configuration for host 192.168.1.132 in JSON data\\n[10:31:26.966] SSH
-  Resolver called for host: 192.168.1.132\\n[10:31:26.966] Setting up SSH remote
-  \\\"192.168.1.132\\\"\\n[10:31:26.987] Using commit id
-  \\\"e249dada235c2083c83813bd65b7f4707fb97b76\\\" and quality \\\"stable\\\"
-  for server\\n[10:31:26.988] Extensions to install: \\n[10:31:26.999] Install
-  and start server if needed\\n[10:31:27.009] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe -V\\\"\\n[10:31:27.013] Got error
-  from ssh: spawn C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[10:31:27.014]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[10:31:27.015] Got
-  error from ssh: spawn C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[10:31:27.015]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
-  -V\\\"\\n[10:31:27.016] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe ENOENT\\n[10:31:27.016] Checking
-  ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  -V\\\"\\n[10:31:27.018] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  ENOENT\\n[10:31:27.018] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[10:31:27.070] >
-  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[10:31:27.078] Running script
-  with connection command:
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56211
-  \\\"192.168.1.132\\\" sh\\n[10:31:27.079] Generated SSH command: 'type
-  \\\"C:\\\\Users\\\\bent0\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-li\
-  ne-command-192.168.1.132-152352713.sh\\\" |
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56211
-  \\\"192.168.1.132\\\" sh'\\n[10:31:27.080] Using connect timeout of 17
-  seconds\\n[10:31:27.081] Terminal shell path:
-  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[10:31:27.454] > \\n[10:31:27.455] Got
-  some output, clearing connection timeout\\n[10:31:29.713] > 550fc0e8f232:
-  running\\n> Script executing under PID: 5504\\n> Found existing installation
-  at /home/bucky/.vscode-server...\\n> Starting VS Code CLI...\\n> Removing old
-  logfile at
-  /home/bucky/.vscode-server/.cli.e249dada235c2083c83813bd65b7f4707fb97b76.log\
-  \\n[10:31:29.751] > Spawned remote CLI: 5522\\n[10:31:29.759] > Waiting for
-  server log...\\n[10:31:29.783] > Waiting for server log...\\n[10:31:29.896] >
-  Waiting for server log...\\n[10:31:29.918] > 550fc0e8f232: start\\n>
-  listeningOn==127.0.0.1:38273==\\n> osReleaseId==debian==\\n>
-  arch==x86_64==\\n> vscodeArch==x64==\\n> bitness==64==\\n>
-  tmpDir==/run/user/1000==\\n> platform==linux==\\n> unpackResult====\\n>
-  didLocalDownload==0==\\n> downloadTime====\\n> installTime====\\n>
-  serverStartTime==139==\\n>
-  execServerToken==1a11a111-11aa-11a1-a1aa-111a1a111111==\\n>
-  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
-  DISPLAY====\\n> 550fc0e8f232: end\\n[10:31:29.918] Received install output:
-  \\nlisteningOn==127.0.0.1:38273==\\nosReleaseId==debian==\\narch==x86_64==\\n\
-  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
-  x==\\nunpackResult====\\ndidLocalDownload==0==\\ndownloadTime====\\ninstallTi\
-  me====\\nserverStartTime==139==\\nexecServerToken==1a11a111-11aa-11a1-a1aa-11\
-  1a1a111111==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUTH_SOCK====\\nD\
-  ISPLAY====\\n\\n[10:31:29.919] Remote server is listening on port
-  38273\\n[10:31:29.919] Parsed server configuration:
-  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":38273},\
-  \\\"osReleaseId\\\":\\\"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
-  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
-  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"1a11a111-11aa-11a1\
-  -a1aa-111a1a111111\\\"},\\\"serverStartTime\\\":139,\\\"installUnpackCode\\\":\
-  \\\"\\\"}\\n[10:31:29.926] Starting forwarding server. local port 56214 ->
-  socksPort 56211 -> remotePort 38273\\n[10:31:29.928] Forwarding server
-  listening on port 56214\\n[10:31:29.928] Waiting for ssh tunnel to be
-  ready\\n[10:31:29.930] [Forwarding server port 56214] Got connection
-  0\\n[10:31:29.932] Tunneled port 38273 to local port 56214\\n[10:31:29.932]
-  Resolved \\\"ssh-remote+192.168.1.132\\\" to \\\"port
-  56214\\\"\\n[10:31:29.945] Initizing new exec server for
-  ssh-remote+192.168.1.132\\n[10:31:29.945] Resolving exec server at port
-  56214\\n[10:31:29.949] [Forwarding server port 56214] Got connection
-  1\\n[10:31:30.498] Exec server for ssh-remote+192.168.1.132 created and
-  cached\\n[10:31:30.498] Extensions to install: \\n[10:31:30.499] Updating
-  terminal environments: {}\\n[10:31:30.503] TELEMETRY:
-  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
-  \"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
-  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
-  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
-  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
-  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"0\\\",\\\"outcome\\\
-  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
-  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":3583,\\\"timing.p\
-  reSshTime\\\":161,\\\"timing.establishSshTime\\\":2633,\\\"timing.scriptTime\\\
-  \":2838,\\\"timing.serverStartTime\\\":139}}\\n[10:31:30.511]
-  ------\\n\\n\\n\\n\\n[10:31:30.512] No hints found in the recent
-  session.\\n[10:31:30.701] [server] Checking
-  /home/bucky/.vscode-server/cli/servers/Stable-e249dada235c2083c83813bd65b7f47\
-  07fb97b76/log.txt and
-  /home/bucky/.vscode-server/cli/servers/Stable-e249dada235c2083c83813bd65b7f47\
-  07fb97b76/pid.txt for a running server...\\n[10:31:30.701] [server] Found
-  running server (pid=5194)\\n[10:31:40.843] Opening exec server for
-  ssh-remote+192.168.1.132\\n[10:31:40.887] Found relevant configuration for
-  host 192.168.1.132 in JSON data\\n[10:31:40.923] Opening exec server for
-  ssh-remote+192.168.1.132\\n[10:31:40.942] Found relevant configuration for
-  host 192.168.1.132 in JSON data\\n[10:31:41.044] Verified and reusing cached
-  exec server for ssh-remote+192.168.1.132\\n[10:31:41.045] No hints found in
-  the recent session.\\n[10:31:41.080] Verified and reusing cached exec server
-  for ssh-remote+192.168.1.132\\n[10:31:41.081] No hints found in the recent
-  session.\\n[10:31:41.178] Opening exec server for
-  ssh-remote+192.168.1.132\\n[10:31:41.187] Found relevant configuration for
-  host 192.168.1.132 in JSON data\\n[10:31:41.263] Verified and reusing cached
-  exec server for ssh-remote+192.168.1.132\\n[10:31:41.264] No hints found in
-  the recent session.\\n[10:31:49.386] TELEMETRY:
-  {\\\"eventName\\\":\\\"extraInfo\\\",\\\"properties\\\":{\\\"remoteCloud\\\":\
-  \\\"\\\"},\\\"measures\\\":{}}\\n[10:50:44.814] > client_loop: send
-  disconnect: Connection reset\\n[10:50:46.180] \\\"install\\\" terminal command
-  done\\n[10:50:46.181] Install terminal quit with output:      client_loop:
-  send disconnect: Connection reset\\n[10:51:53.283]
-  ------\\n\\n\\n\\n\\n[10:51:53.283] SSH Resolver called for
-  \\\"ssh-remote+192.168.1.132\\\", attempt 2, (Reconnection)\\n[10:51:53.286]
-  Found relevant configuration for host 192.168.1.132 in JSON
-  data\\n[10:51:53.286] SSH Resolver called for host:
-  192.168.1.132\\n[10:51:53.287] Setting up SSH remote
-  \\\"192.168.1.132\\\"\\n[10:51:53.295] Using commit id
-  \\\"e249dada235c2083c83813bd65b7f4707fb97b76\\\" and quality \\\"stable\\\"
-  for server\\n[10:51:53.295] Extensions to install: \\n[10:51:53.314] Install
-  and start server if needed\\n[10:51:53.322] Running script with connection
-  command: \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56902
-  \\\"192.168.1.132\\\" sh\\n[10:51:53.324] Generated SSH command: 'type
-  \\\"C:\\\\Users\\\\bent0\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-li\
-  ne-command-192.168.1.132-355428798.sh\\\" |
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56902
-  \\\"192.168.1.132\\\" sh'\\n[10:51:53.325] Using connect timeout of 17
-  seconds\\n[10:51:53.327] Terminal shell path:
-  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[10:51:53.665] > \\n[10:51:53.666] Got
-  some output, clearing connection timeout\\n[10:51:55.348] > 6285fc45abb3:
-  running\\n> Script executing under PID: 6645\\n[10:51:55.370] > Found existing
-  installation at /home/bucky/.vscode-server...\\n> Starting VS Code
-  CLI...\\n[10:51:55.386] > Removing old logfile at
-  /home/bucky/.vscode-server/.cli.e249dada235c2083c83813bd65b7f4707fb97b76.log\
-  \\n[10:51:55.435] > Spawned remote CLI: 6663\\n[10:51:55.467] > Waiting for
-  server log...\\n[10:51:55.588] > Waiting for server log...\\n> Waiting for
-  server log...\\n> Waiting for server log...\\n> 6285fc45abb3: start\\n>
-  listeningOn==127.0.0.1:39719==\\n> osReleaseId==debian==\\n>
-  arch==x86_64==\\n> vscodeArch==x64==\\n> bitness==64==\\n>
-  tmpDir==/run/user/1000==\\n> platform==linux==\\n> unpackResult====\\n>
-  didLocalDownload==0==\\n> downloadTime====\\n> installTime====\\n>
-  serverStartTime==171==\\n>
-  execServerToken==aa111aaa-aa11-1aa1-a111-111aa111aa11==\\n>
-  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
-  DISPLAY====\\n> 6285fc45abb3: end\\n[10:51:55.589] Received install output:
-  \\nlisteningOn==127.0.0.1:39719==\\nosReleaseId==debian==\\narch==x86_64==\\n\
-  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
-  x==\\nunpackResult====\\ndidLocalDownload==0==\\ndownloadTime====\\ninstallTi\
-  me====\\nserverStartTime==171==\\nexecServerToken==aa111aaa-aa11-1aa1-a111-11\
-  1aa111aa11==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUTH_SOCK====\\nD\
-  ISPLAY====\\n\\n[10:51:55.589] Remote server is listening on port
-  39719\\n[10:51:55.590] Parsed server configuration:
-  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":39719},\
-  \\\"osReleaseId\\\":\\\"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
-  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
-  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"aa111aaa-aa11-1aa1\
-  -a111-111aa111aa11\\\"},\\\"serverStartTime\\\":171,\\\"installUnpackCode\\\":\
-  \\\"\\\"}\\n[10:51:55.594] Starting forwarding server. local port 56905 ->
-  socksPort 56902 -> remotePort 39719\\n[10:51:55.595] Forwarding server
-  listening on port 56905\\n[10:51:55.595] Waiting for ssh tunnel to be
-  ready\\n[10:51:55.597] [Forwarding server port 56905] Got connection
-  0\\n[10:51:55.598] Tunneled port 39719 to local port 56905\\n[10:51:55.598]
-  Resolved \\\"ssh-remote+192.168.1.132\\\" to \\\"port
-  56905\\\"\\n[10:51:58.605] Existing exec server for ssh-remote+192.168.1.132
-  timed out\\n[10:51:58.606] Initizing new exec server for
-  ssh-remote+192.168.1.132\\n[10:51:58.606] Resolving exec server at port
-  56905\\n[10:51:58.609] [Forwarding server port 56905] Got connection
-  1\\n[10:51:58.945] Exec server for ssh-remote+192.168.1.132 created and
-  cached\\n[10:51:58.946] Extensions to install: \\n[10:51:58.946] Updating
-  terminal environments: {}\\n[10:51:58.949] TELEMETRY:
-  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
-  \"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
-  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
-  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
-  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
-  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"0\\\",\\\"outcome\\\
-  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":2,\\\"retries\\\
-  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":5666,\\\"timing.p\
-  reSshTime\\\":44,\\\"timing.establishSshTime\\\":2022,\\\"timing.scriptTime\\\
-  \":2263,\\\"timing.serverStartTime\\\":171}}\\n[10:51:58.952]
-  ------\\n\\n\\n\\n\"}],\"createdAt\":\"2025-02-13T18:31:26.882Z\"},{\"hints\"\
-  :[{\"type\":\"environment\",\"message\":\"Extension setting 'useLocalServer'
-  is set to value 'false'\",\"details\":\"Enables a mode for connecting using a
-  single connection shared between windows and across window reloads. This makes
-  it faster to open new windows and reduces the number of times a password needs
-  to be entered.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'useExecServer' is set to value 'true'\",\"details\":\"Uses the a new
-  bootstrapping mode when connecting to a server. Can be toggled off in the
-  event of connection
-  issues.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'bindHost' is set to value '{}'\",\"details\":\"Configures the host the VS
-  Code server will bind to on the remote server. It defaults to IPv4 localhost
-  and should only need modification in advanced
-  cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'showLoginTerminal' is set to value 'false'\",\"details\":\"Always reveal the
-  SSH login terminal.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'remotePlatform' is set to value
-  '{\\\"192.168.0.239\\\":\\\"linux\\\",\\\"192.168.0.221\\\":\\\"linux\\\",\\\
-  \"192.168.0.171\\\":\\\"linux\\\",\\\"172.23.116.103\\\":\\\"linux\\\",\\\"19\
-  2.168.100.25\\\":\\\"linux\\\",\\\"192.168.0.241\\\":\\\"linux\\\",\\\"Debdev\
-  \\\":\\\"linux\\\",\\\"192.168.1.132\\\":\\\"linux\\\"}'\",\"details\":\"A map
-  of the remote hostname to the platform for that remote. The hostname may
-  include a star '*' to wildcard match. Valid values: `linux`, `macOS`,
-  `windows`. Note - this setting will soon be required when
-  `#remote.SSH.useLocalServer#` is disabled, so it is currently being
-  autopopulated for successful connections, but is not currently
-  used.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'path' is
-  set to value 'undefined'\",\"details\":\"An absolute path to the SSH
-  executable. When empty, it will use \\\"ssh\\\" on the path or in common
-  install locations.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'configFile' is set to value 'undefined'\",\"details\":\"The absolute
-  file path to a custom SSH config
-  file.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'useFlock'
-  is set to value 'true'\",\"details\":\"Whether to use `flock` for creating
-  lockfiles on Linux remotes instead of `ln`. By default, we use `flock` on
-  Linux remotes and `ln` on
-  macOS.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'lockfilesInTmp' is set to value 'false'\",\"details\":\"Whether to keep
-  lockfiles in `/tmp` instead of in the server's install folder. Useful for
-  connecting to hosts which have issues with locking, such as hosts with a home
-  directory using NFS or another distributed
-  filesystem.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'localServerDownload' is set to value 'auto'\",\"details\":\"Whether the
-  extension can download the VS Code Server on the client and transfer it to the
-  host with scp, instead of downloading it on the
-  host.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'remoteServerListenOnSocket' is set to value 'false'\",\"details\":\"When
-  true, the remote VS Code server will listen on a socket path instead of
-  opening a port. Only valid for Linux and macOS remotes. After toggling this
-  setting, run the command \\\"Kill VS Code Server on Host...\\\" for it to take
-  effect. Requires OpenSSH 6.7+. Disables the \\\"local server\\\" connection
-  multiplexing mode. Requires `AllowStreamLocalForwarding` to be enabled for the
-  SSH server.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'defaultExtensions' is set to value '[]'\",\"details\":\"List of extensions
-  that should be installed automatically on all SSH
-  hosts.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'defaultExtensionsIfInstalledLocally' is set to value
-  '[]'\",\"details\":\"List of extensions that should be installed automatically
-  on all SSH hosts if they are already installed
-  locally.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'loglevel' is set to value
-  '2'\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'enableDynamicForwarding' is set to value 'true'\",\"details\":\"Whether to
-  use SSH dynamic forwarding to allow setting up new port tunnels over an
-  existing SSH connection. When this is used, a password only needs to be
-  entered once for each remote
-  window.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'enableRemoteCommand' is set to value
-  'false'\",\"details\":\"**Experimental:** Enable using RemoteCommands from ssh
-  config entries. This is only enabled if `#remote.SSH.useLocalServer#` is
-  enabled as well and the remote you are trying to connect to is not listed
-  under the `#remote.SSH.remotePlatform#`
-  setting.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'serverPickPortsFromRange' is set to value '{}'\",\"details\":\"A map of the
-  remote hostname to a range of ports you'd prefer the server to connect to on
-  launch on the **remote** machine. If no free port is found in range, an error
-  will be thrown. Valid ranges of the form `number-number` such as `4000-5000`;
-  it's expected the first number will be lower than the
-  next.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'serverInstallPath' is set to value '{}'\",\"details\":\"A map of remote host
-  to absolute path where the VS Code server will be installed. By default the
-  server is installed in the home directory of every remote. **Note**: By
-  changing this setting you may need to clean up other installations of
-  `.vscode-server` on your remote that isn't in the path you've
-  configured.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'permitPtyAllocation' is set to value 'false'\",\"details\":\"Permits the
-  system to allocate a pseudo-terminal for the SSH connection (by omitting the
-  '-T' SSH connection flag). This setting is disabled by default and may be
-  enabled to support specific
-  use-cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'preferredLocalPortRange' is set to value 'undefined'\",\"details\":\"A range
-  of **local** ports preferred to utilize for the SSH tunnel connection. If no
-  free port is found in range, an error will be thrown. Valid ranges of the form
-  `number-number` such as `4000-5000`; it's expected the first number will be
-  lower than the next.\"},{\"type\":\"environment\",\"message\":\"Extension
-  setting 'useCurlAndWgetConfigurationFiles' is set to value
-  'false'\",\"details\":\"Respect configuration from remote environment's
-  'curlrc' and 'wgetrc' files (placed in their respective default
-  locations).  Enabling this setting may be useful in certain cases (i.e: proxy
-  configuration) but can interfere with this extension's operation. Setting may
-  be ignored on platforms that do not support the necessary flags (i.e:
-  busybox).\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'experimental.chat' is set to value 'false'\",\"details\":\"Enables an
-  experimental Copilot Chat Participant.  Use natural language to learn about
-  Remote - SSH and diagnose connection issues.  For the best experience, use VS
-  Code Insiders and ensure you have the latest Copilot Chat extension
-  installed.\"},{\"type\":\"environment\",\"message\":\"Extension setting
-  'experimental.enhancedSessionLogs' is set to value
-  'false'\",\"details\":\"Generates a summarized table of issues detected from
-  the previous session.\"},{\"type\":\"environment\",\"message\":\"VS Code
-  version: 1.97.1\"},{\"type\":\"environment\",\"message\":\"Remote-SSH version:
-  remote-ssh@0.117.1\"},{\"type\":\"environment\",\"message\":\"win32
-  x64\"},{\"type\":\"log\",\"message\":\"[10:53:21.777] Log Level:
-  2\\n[10:53:21.813] SSH Resolver called for \\\"ssh-remote+192.168.1.132\\\",
-  attempt 1\\n[10:53:21.819] remote.SSH.useLocalServer = false\\n[10:53:21.820]
-  remote.SSH.useExecServer = true\\n[10:53:21.820] remote.SSH.bindHost =
-  {}\\n[10:53:21.820] remote.SSH.showLoginTerminal = false\\n[10:53:21.821]
-  remote.SSH.remotePlatform =
-  {\\\"192.168.0.239\\\":\\\"linux\\\",\\\"192.168.0.221\\\":\\\"linux\\\",\\\"\
-  192.168.0.171\\\":\\\"linux\\\",\\\"172.23.116.103\\\":\\\"linux\\\",\\\"192.\
-  168.100.25\\\":\\\"linux\\\",\\\"192.168.0.241\\\":\\\"linux\\\",\\\"Debdev\\\
-  \":\\\"linux\\\",\\\"192.168.1.132\\\":\\\"linux\\\"}\\n[10:53:21.821]
-  remote.SSH.path = undefined\\n[10:53:21.821] remote.SSH.configFile =
-  undefined\\n[10:53:21.822] remote.SSH.useFlock = true\\n[10:53:21.828]
-  remote.SSH.lockfilesInTmp = false\\n[10:53:21.828]
-  remote.SSH.localServerDownload = auto\\n[10:53:21.828]
-  remote.SSH.remoteServerListenOnSocket = false\\n[10:53:21.829]
-  remote.SSH.defaultExtensions = []\\n[10:53:21.829]
-  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[10:53:21.829]
-  remote.SSH.loglevel = 2\\n[10:53:21.829] remote.SSH.enableDynamicForwarding =
-  true\\n[10:53:21.830] remote.SSH.enableRemoteCommand = false\\n[10:53:21.830]
-  remote.SSH.serverPickPortsFromRange = {}\\n[10:53:21.830]
-  remote.SSH.serverInstallPath = {}\\n[10:53:21.831]
-  remote.SSH.permitPtyAllocation = false\\n[10:53:21.831]
-  remote.SSH.preferredLocalPortRange = undefined\\n[10:53:21.832]
-  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[10:53:21.832]
-  remote.SSH.experimental.chat = false\\n[10:53:21.832]
-  remote.SSH.experimental.enhancedSessionLogs = false\\n[10:53:21.848] VS Code
-  version: 1.97.1\\n[10:53:21.849] Remote-SSH version:
-  remote-ssh@0.117.1\\n[10:53:21.849] win32 x64\\n[10:53:21.856] Found relevant
-  configuration for host 192.168.1.132 in JSON data\\n[10:53:21.856] SSH
-  Resolver called for host: 192.168.1.132\\n[10:53:21.856] Setting up SSH remote
-  \\\"192.168.1.132\\\"\\n[10:53:21.870] Using commit id
-  \\\"e249dada235c2083c83813bd65b7f4707fb97b76\\\" and quality \\\"stable\\\"
-  for server\\n[10:53:21.870] Extensions to install: \\n[10:53:21.903] Install
-  and start server if needed\\n[10:53:21.907] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe -V\\\"\\n[10:53:21.910] Got error
-  from ssh: spawn C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[10:53:21.910]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[10:53:21.912] Got
-  error from ssh: spawn C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[10:53:21.912]
-  Checking ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
-  -V\\\"\\n[10:53:21.913] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe ENOENT\\n[10:53:21.913] Checking
-  ssh with \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  -V\\\"\\n[10:53:21.914] Got error from ssh: spawn
-  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
-  ENOENT\\n[10:53:21.914] Checking ssh with
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[10:53:21.961] >
-  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[10:53:21.966] Running script
-  with connection command:
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56971
-  \\\"192.168.1.132\\\" sh\\n[10:53:21.969] Generated SSH command: 'type
-  \\\"C:\\\\Users\\\\bent0\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-li\
-  ne-command-192.168.1.132-359944315.sh\\\" |
-  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 56971
-  \\\"192.168.1.132\\\" sh'\\n[10:53:21.970] Using connect timeout of 17
-  seconds\\n[10:53:21.971] Terminal shell path:
-  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[10:53:22.283] > \\n[10:53:22.283] Got
-  some output, clearing connection timeout\\n[10:53:24.478] > e0a7545e713a:
-  running\\n> Script executing under PID: 6925\\n[10:53:24.499] > Found existing
-  installation at /home/bucky/.vscode-server...\\n> Starting VS Code CLI...\\n>
-  Removing old logfile at
-  /home/bucky/.vscode-server/.cli.e249dada235c2083c83813bd65b7f4707fb97b76.log\
-  \\n> Spawned remote CLI: 6943\\n> Waiting for server log...\\n> Waiting for
-  server log...\\n> Waiting for server log...\\n[10:53:24.580] > Waiting for
-  server log...\\n[10:53:24.646] > e0a7545e713a: start\\n>
-  listeningOn==127.0.0.1:40429==\\n> osReleaseId==debian==\\n>
-  arch==x86_64==\\n> vscodeArch==x64==\\n> bitness==64==\\n>
-  tmpDir==/run/user/1000==\\n> platform==linux==\\n> unpackResult====\\n>
-  didLocalDownload==0==\\n> downloadTime====\\n> installTime====\\n>
-  serverStartTime==163==\\n>
-  execServerToken==1111111a-1aa1-1111-1a1a-11a1aa11aa11==\\n>
-  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
-  DISPLAY====\\n> e0a7545e713a: end\\n[10:53:24.647] Received install output:
-  \\nlisteningOn==127.0.0.1:40429==\\nosReleaseId==debian==\\narch==x86_64==\\n\
-  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
-  x==\\nunpackResult====\\ndidLocalDownload==0==\\ndownloadTime====\\ninstallTi\
-  me====\\nserverStartTime==163==\\nexecServerToken==1111111a-1aa1-1111-1a1a-11\
-  a1aa11aa11==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUTH_SOCK====\\nD\
-  ISPLAY====\\n\\n[10:53:24.648] Remote server is listening on port
-  40429\\n[10:53:24.648] Parsed server configuration:
-  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":40429},\
-  \\\"osReleaseId\\\":\\\"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
-  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
-  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"1111111a-1aa1-1111\
-  -1a1a-11a1aa11aa11\\\"},\\\"serverStartTime\\\":163,\\\"installUnpackCode\\\":\
-  \\\"\\\"}\\n[10:53:24.655] Starting forwarding server. local port 56973 ->
-  socksPort 56971 -> remotePort 40429\\n[10:53:24.657] Forwarding server
-  listening on port 56973\\n[10:53:24.657] Waiting for ssh tunnel to be
-  ready\\n[10:53:24.660] [Forwarding server port 56973] Got connection
-  0\\n[10:53:24.662] Tunneled port 40429 to local port 56973\\n[10:53:24.663]
-  Resolved \\\"ssh-remote+192.168.1.132\\\" to \\\"port
-  56973\\\"\\n[10:53:24.676] Initizing new exec server for
-  ssh-remote+192.168.1.132\\n[10:53:24.676] Resolving exec server at port
-  56973\\n[10:53:24.683] [Forwarding server port 56973] Got connection
-  1\\n[10:53:25.070] Exec server for ssh-remote+192.168.1.132 created and
-  cached\\n[10:53:25.071] Extensions to install: \\n[10:53:25.071] Updating
-  terminal environments: {}\\n[10:53:25.078] TELEMETRY:
-  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
-  \"debian\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
-  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
-  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
-  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
-  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"0\\\",\\\"outcome\\\
-  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
-  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":3265,\\\"timing.p\
-  reSshTime\\\":158,\\\"timing.establishSshTime\\\":2509,\\\"timing.scriptTime\\\
-  \":2677,\\\"timing.serverStartTime\\\":163}}\\n[10:53:25.082]
-  ------\\n\\n\\n\\n\"}],\"createdAt\":\"2025-02-13T18:53:21.781Z\"}]}"
-ms-vscode-remote.remote-wsl: '{"wsl.downloadInProgress":true,"wsl.lastUpdateCheck":1767476784266,"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.chat.allowAnonymousAccess","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.http.systemCertificatesNodecf","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;6abeh943:31336334;0574c672:31404437;todos-1:31405332;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31412086;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;anonusage:31403420;ec5jj548:31422691;c0683394:31419495;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.chat.allowAnonymousAccess":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.http.systemCertificatesNode":false,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode.remote-repositories: '{"version":"0.42.0"}'
-ms-vscode.remote-server: '{"tunnelClearSessionOnNextProvider":false,"remote-tunnels.folder-history":{}}'
-ms-vsliveshare.vsliveshare: '{"vsliveshare-first-activation-flag":"1.0.5941","firstActivationTime":1733092719354,"anonymousAuthReloadFlag":null,"wasForceReload":false,"firstActivationVersion":"1.0.5941","authenticationProvider":"github","VSCode.ABExp.FeatureData":{"features":["authProviderPicker","autoModelEnabled","config.chat.allowAnonymousAccess","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.http.systemCertificatesNodecf","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","followIndicator","livesharecontinuousaacf","mindaroBinariesVersion","nativeAuth","readWriteAnonymous","resyncOnMisappliedEdit","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;vsrea433:30283384;vsnat461:30259396;binariesv615:30325510;vsfol871:30383134;vslsresync:30385087;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;6abeh943:31336334;0574c672:31404437;todos-1:31405332;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31412086;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;anonusage:31403420;ec5jj548:31422691;c0683394:31419495;","configs":[{"Id":"vscode","Parameters":{"authProviderPicker":true,"autoModelEnabled":true,"config.chat.allowAnonymousAccess":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.http.systemCertificatesNode":false,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"followIndicator":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","nativeAuth":true,"readWriteAnonymous":true,"resyncOnMisappliedEdit":true,"test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
 PKief.material-icon-theme: '{"material-icon-theme.version":"4.21.0"}'
 pomdtr.excalidraw-editor: '{"library":"{\n  \"type\":
   \"excalidrawlib\",\n  \"version\": 2,\n  \"source\":
@@ -776,12 +97,14 @@ pomdtr.excalidraw-editor: '{"library":"{\n  \"type\":
   []\n}"}'
 redhat.vscode-yaml: '{"json-schema-key":{"https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/execution-environment.json":{"eTag":"W/\"bb08fadb4f0d71099ec2a4e31d8a75c379f470ecc7f35134be25334ff8a43835\"","schemaPath":"c:\\Users\\bent0\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\4920907541a8e859828df84e35a489c8"},"https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/requirements.json":{"eTag":"W/\"c08ff32c451a706b0fb95a6f515cc71b92c4649c32dd2ac056c495890c5c535e\"","schemaPath":"c:\\Users\\bent0\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\50d631848dbc36e083b54ef00d378396"}}}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
+streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 Vue.volar: '{"vue.welcome":"3.1.0"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.mise-panel","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.platformio","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.PowerShellCommandExplorer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.craftos-terminals","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.zenscript-explorer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":true,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.trunkContainer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":23},{"id":"workbench.view.extension.ansible-explorer","pinned":true,"visible":false,"order":22},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":11},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.mise-panel","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.platformio","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.PowerShellCommandExplorer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.craftos-terminals","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.zenscript-explorer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":true,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.trunkContainer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":23},{"id":"workbench.view.extension.ansible-explorer","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":15},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
-  in\":true,\"views\":[{},{\"when\":\"deno:lspReady\"},{\"when\":\"git.commit.s\
-  elected && git.commit.view.show &&
+  in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
+  npm:showScriptExplorer\"},{\"when\":\"deno:lspReady\"},{\"when\":\"git.commit\
+  .selected && git.commit.view.show &&
   !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
   ompared && git.commit.compare.view.show &&
   !config.gitHistory.hideCompareCommitViewExplorer\"},{\"when\":\"xmlTreeViewEn\
@@ -799,8 +122,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
   jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
   jsDebugHasExcludedCallers && debugType ==
-  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"cpptools.ena\
-  bleSshTargetsView\"},{},{},{},{},{\"when\":\"debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"debugType ==
   'lldb'\"},{\"when\":\"debugType ==
   'lldb'\"}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-con\
   trol-view-icon\"},\"name\":\"Source
@@ -808,97 +130,37 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
   '0'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\"extens\
-  ions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"wh\
-  en\":\"defaultExtensionViews && extensionsGalleryStatus == 'accessDenied' ||
-  defaultExtensionViews && extensionsGalleryStatus == 'requiresSignIn' ||
-  searchMarketplaceExtensions && extensionsGalleryStatus == 'accessDenied' ||
-  searchMarketplaceExtensions && extensionsGalleryStatus ==
-  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
-  tensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledMcpServers &&
-  !chatSetupHidden\"},{\"when\":\"config.chat.mcp.gallery.enabled &&
-  defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
-  mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
-  && defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
-  mcpServersGalleryStatus == 'available' || defaultExtensionViews &&
-  !chatSetupHidden && !hasInstalledMcpServers && mcpServersGalleryStatus ==
-  'available' && productQualityType !=
-  'stable'\"},{\"when\":\"defaultExtensionViews && !chatSetupHidden &&
-  !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
-  !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' &&
-  productQualityType == 'stable'\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"hasGallery &&
-  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"con\
-  fig.chat.mcp.gallery.enabled && searchMcpServers && !chatSetupHidden &&
-  mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
-  && searchMcpServers && !chatSetupHidden && mcpServersGalleryStatus ==
-  'available' || searchMcpServers && !chatSetupHidden && mcpServersGalleryStatus
-  == 'available' && productQualityType !=
-  'stable'\"},{\"when\":\"searchMcpServers && !chatSetupHidden &&
-  !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
-  mcpServersGalleryStatus == 'available' && productQualityType ==
-  'stable'\"}]},{\"id\":\"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\
-  \"chat-sessions-icon\",\"description\":\"Icon for Agent Sessions
+  ions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[]},{\
+  \"id\":\"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\"chat-sessions\
+  -icon\",\"description\":\"Icon for Agent Sessions
   View\",\"defaults\":{\"id\":\"comment-discussion-sparkle\"}},\"name\":\"Agent
-  Sessions\",\"isBuiltin\":true,\"views\":[{\"when\":\"!chatSetupDisabled &&
-  !chatSetupHidden && config.chat.agentSessionsViewLocation ==
-  'view'\"},{\"when\":\"!chatSetupDisabled && !chatSetupHidden &&
-  config.chat.agentSessionsViewLocation ==
-  'view'\"},{\"when\":\"!chatSetupDisabled && !chatSetupHidden &&
-  config.chat.agentSessionsViewLocation ==
-  'view'\"},{\"when\":\"false\"},{\"when\":\"github.copilot.chat.codex.showPlac\
-  eholder && !chatSetupDisabled && !chatSetupHidden &&
-  config.chat.agentSessionsViewLocation ==
-  'view'\"},{\"when\":\"chatEntitlementSignedOut && !chatSetupDisabled &&
-  !chatSetupHidden && config.chat.agentSessionsViewLocation == 'view' ||
-  !chatIsEnabled && !chatSetupDisabled && !chatSetupHidden &&
-  config.chat.agentSessionsViewLocation ==
-  'view'\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\
-  \"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\
-  \":\"testing.providerCount >
+  Sessions\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  n.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isB\
+  uiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"},{\"when\":\"cpptools.hasReferencesResults\"}]},{\"id\":\"workbench.view.e\
-  xtension.github-copilot-completions-debugger-panel\",\"name\":\"Debugger\",\"\
-  isBuiltin\":false},{\"id\":\"workbench.view.extension.copilot-chat\",\"iconUrl\
-  \":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/github.copilot-chat-0.35.2/\
-  assets/debug-icon.svg\",\"scheme\":\"file\"},\"name\":\"Chat
-  Debug\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.showLo\
-  gView\"}]},{\"id\":\"workbench.view.extension.context-inspector\",\"themeIcon\
-  \":{\"id\":\"inspect\"},\"name\":\"Language Context
-  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.sh\
-  owContextInspectorView\"}]},{\"id\":\"workbench.view.extension.mise-panel\",\
-  \"themeIcon\":{\"id\":\"terminal\"},\"name\":\"Mise\",\"isBuiltin\":false,\"v\
-  iews\":[{\"when\":\"true\"},{\"when\":\"true\"},{\"when\":\"true\"}]},{\"id\":\
-  \"workbench.view.extension.platformio\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%\
-  EXTENSION_DATA_PATH%%/platformio.platformio-ide-3.3.4-win32-x64/assets/icons/\
-  platformio-activity-icon.svg\",\"scheme\":\"file\"},\"name\":\"PlatformIO\",\
-  \"isBuiltin\":false,\"views\":[{\"when\":\"pioCoreReady\"},{}]},{\"id\":\"wor\
-  kbench.view.extension.sidebar-view\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXT\
-  ENSION_DATA_PATH%%/nuxtr.nuxtr-vscode-0.2.16/assets/logo.svg\",\"scheme\":\"f\
-  ile\"},\"name\":\"Nuxtr\",\"isBuiltin\":false,\"views\":[{\"when\":\"nuxtr.is\
-  NuxtProject\"}]},{\"id\":\"workbench.view.extension.gitlensInspect\",\"isBuil\
-  tin\":false},{\"id\":\"workbench.view.extension.gitlensPatch\",\"isBuiltin\":\
-  false},{\"id\":\"workbench.view.extension.github-pull-requests\",\"themeIcon\
-  \":{\"id\":\"github\"},\"name\":\"GitHub\",\"isBuiltin\":false,\"views\":[{\"\
-  when\":\"ReposManagerStateContext ==
+  \"}]},{\"id\":\"workbench.view.extension.github-copilot-completions-debugger-\
+  panel\",\"name\":\"Debugger\",\"isBuiltin\":false},{\"id\":\"workbench.view.e\
+  xtension.todo-tree-container\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION\
+  _DATA_PATH%%/gruntfuggly.todo-tree-0.0.215-universal/resources/todo-tree-cont\
+  ainer.svg\",\"scheme\":\"file\"},\"name\":\"TODOs\",\"isBuiltin\":false,\"vie\
+  ws\":[{\"when\":\"!todo-tree-is-empty\"}]},{\"id\":\"workbench.view.extension\
+  .copilot-chat\",\"name\":\"Chat
+  Debug\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.context-inspe\
+  ctor\",\"name\":\"Language Context
+  Inspector\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.mise-panel\
+  \",\"themeIcon\":{\"id\":\"terminal\"},\"name\":\"Mise\",\"isBuiltin\":false,\
+  \"views\":[{\"when\":\"true\"},{\"when\":\"true\"},{\"when\":\"true\"}]},{\"id\
+  \":\"workbench.view.extension.platformio\",\"name\":\"PlatformIO\",\"isBuiltin\
+  \":false},{\"id\":\"workbench.view.extension.sidebar-view\",\"iconUrl\":{\"$m\
+  id\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/nuxtr.nuxtr-vscode-0.2.16-universal\
+  /assets/logo.svg\",\"scheme\":\"file\"},\"name\":\"Nuxtr\",\"isBuiltin\":fals\
+  e,\"views\":[{\"when\":\"nuxtr.isNuxtProject\"}]},{\"id\":\"workbench.view.ex\
+  tension.gitlensInspect\",\"isBuiltin\":false},{\"id\":\"workbench.view.extens\
+  ion.gitlensPatch\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gi\
+  thub-pull-requests\",\"themeIcon\":{\"id\":\"github\"},\"name\":\"GitHub\",\"\
+  isBuiltin\":false,\"views\":[{\"when\":\"ReposManagerStateContext ==
   'NeedsAuthentication'\"},{\"when\":\"!github:resolvingConflicts &&
   ReposManagerStateContext !=
   'NeedsAuthentication'\"},{\"when\":\"!github:resolvingConflicts &&
@@ -918,35 +180,26 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   && github:activePRCount <= 1\"},{\"when\":\"github:focusedReview &&
   !github:stateValidated\"}]},{\"id\":\"workbench.view.extension.hexExplorer\",\
   \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-vscode.hexedito\
-  r-1.11.1/panel-icon.svg\",\"scheme\":\"file\"},\"name\":\"Hex
+  r-1.11.1-universal/panel-icon.svg\",\"scheme\":\"file\"},\"name\":\"Hex
   Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"hexEditor:showSidebarInsp\
   ector\"}]},{\"id\":\"workbench.view.extension.PowerShellCommandExplorer\",\"i\
   sBuiltin\":false},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"r\
   emote-explorer-view-icon\"},\"name\":\"Remote
-  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"true\"},{\"when\":\
-  \"!hideConnectCommands\"},{\"when\":\"true\"},{\"when\":\"codespaces:views-we\
-  lcome:version-notification ==
-  'Deprecated'\"},{\"when\":\"remote-containers:showDetails &&
-  !hideConnectCommands\"},{\"when\":\"codespaces:performance-explorer-enabled &&
-  codespaces:views-welcome:version-notification !=
-  'Unsupported'\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workbench.vi\
-  ew.extension.craftos-terminals\",\"name\":\"CraftOS
+  Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  n.craftos-terminals\",\"name\":\"CraftOS
   Terminals\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.makefile_\
   _viewContainer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.zens\
   cript-explorer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.dock\
   erView\",\"name\":\"Docker\",\"isBuiltin\":false},{\"id\":\"workbench.view.ex\
-  tension.liveshare\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%\
-  %/ms-vsliveshare.vsliveshare-1.0.5959/images/dark/liveshare.svg\",\"scheme\":\
-  \"file\"},\"name\":\"Live
-  Share\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.liveshare.teamStatus
-  ||
-  liveshare:isTeamMember\"}]},{\"id\":\"workbench.view.extension.cspell-explorer\
-  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cmake__viewContain\
-  er\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlens\",\"isBu\
-  iltin\":false},{\"id\":\"workbench.view.extension.mongoDB\",\"isBuiltin\":fal\
-  se},{\"id\":\"workbench.view.extension.github-actions\",\"iconUrl\":{\"$mid\"\
-  :1,\"path\":\"%%EXTENSION_DATA_PATH%%/github.vscode-github-actions-0.28.2/res\
-  ources/icons/light/explorer.svg\",\"scheme\":\"file\"},\"name\":\"GitHub
+  tension.liveshare\",\"name\":\"Live
+  Share\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cspell-explor\
+  er\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cmake__viewConta\
+  iner\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlens\",\"is\
+  Builtin\":false},{\"id\":\"workbench.view.extension.mongoDB\",\"isBuiltin\":f\
+  alse},{\"id\":\"workbench.view.extension.github-actions\",\"iconUrl\":{\"$mid\
+  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/github.vscode-github-actions-0.28.2-u\
+  niversal/resources/icons/light/explorer.svg\",\"scheme\":\"file\"},\"name\":\
+  \"GitHub
   Actions\",\"isBuiltin\":false,\"views\":[{\"when\":\"github-actions.has-repos
   && github-actions.internet-access &&
   github-actions.signed-in\"},{\"when\":\"github-actions.has-repos &&
@@ -957,69 +210,47 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   !github-actions.internet-access ||
   !github-actions.signed-in\"}]},{\"id\":\"workbench.view.extension.trunkContai\
   ner\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.rustSyntaxTreeC\
-  ontainer\",\"themeIcon\":{\"id\":\"list-tree\"},\"name\":\"Rust Syntax
-  Tree\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.rust-analyzer.showSy\
-  ntaxTree &&
-  inRustProject\"}]},{\"id\":\"workbench.view.extension.ansible-explorer\",\"ic\
-  onUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/redhat.ansible-25.12.3\
-  /images/ansible.svg\",\"scheme\":\"file\"},\"name\":\"Ansible\",\"isBuiltin\"\
-  :false,\"views\":[{},{\"when\":\"config.ansible.lightspeed.enabled\"},{\"when\
-  \":\"config.ansible.lightspeed.enabled\"}]},{\"id\":\"workbench.view.extensio\
-  n.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
-  /ms-azuretools.vscode-containers-2.3.0/resources/ContainerTools.svg\",\"scheme\
-  \":\"file\"},\"name\":\"Containers\",\"isBuiltin\":false,\"views\":[{},{},{},\
-  {},{},{},{}]},{\"id\":\"workbench.view.extension.python\",\"iconUrl\":{\"$mid\
-  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-python.vscode-python-envs-1.15.135\
-  21015-win32-x64/files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Python\",\"i\
-  sBuiltin\":false,\"views\":[{\"when\":\"config.python.useEnvironmentsExtension\
-  \"},{\"when\":\"config.python.useEnvironmentsExtension\"}]},{\"id\":\"workben\
-  ch.view.extension.jupyter\",\"themeIcon\":{\"id\":\"notebook\"},\"name\":\"Ju\
-  pyter\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.panel.chatSideb\
-  ar\",\"name\":\"Chat (Old
-  Location)\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"themeIcon\
-  \":{\"id\":\"settings-sync-view-icon\"},\"name\":\"Settings
-  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
-  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
-  userDataSyncAccountStatus == 'available' && syncStatus !=
-  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
-  yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
-  \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
-  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
-  ,{\"id\":\"userDataProfiles\",\"name\":\"Profiles\",\"isBuiltin\":false}]"
+  ontainer\",\"name\":\"Rust Syntax
+  Tree\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.ansible-explor\
+  er\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/redhat.ansibl\
+  e-25.12.3-universal/images/ansible.svg\",\"scheme\":\"file\"},\"name\":\"Ansi\
+  ble\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"config.ansible.lightspeed\
+  .enabled\"},{\"when\":\"config.ansible.lightspeed.enabled\"}]},{\"id\":\"work\
+  bench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EX\
+  TENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.3.0-universal/resources\
+  /ContainerTools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\
+  \":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension\
+  .python\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-pytho\
+  n.vscode-python-envs-1.14.0-universal/files/logo.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Python\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.python.\
+  useEnvironmentsExtension\"},{\"when\":\"config.python.useEnvironmentsExtension\
+  \"}]},{\"id\":\"workbench.view.extension.jupyter\",\"themeIcon\":{\"id\":\"no\
+  tebook\"},\"name\":\"Jupyter\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"wo\
+  rkbench.panel.chatSidebar\",\"name\":\"Chat (Old
+  Location)\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"name\":\"S\
+  ettings
+  Sync\",\"isBuiltin\":false},{\"id\":\"workbench.view.editSessions\",\"name\":\
+  \"Cloud
+  Changes\",\"isBuiltin\":false},{\"id\":\"userDataProfiles\",\"name\":\"Profil\
+  es\",\"isBuiltin\":false}]"
 workbench.activityBar.location: default
-workbench.auxiliaryBar.empty: "false"
+workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
-workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.viewContainer.agentSessions","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":17},{"id":"workbench.views.service.auxiliarybar.30d88904-6e7e-4ef1-aa47-0c77b1879355","pinned":true,"visible":false},{"id":"workbench.views.service.auxiliarybar.a11a3055-4b66-4092-bc8a-cb4a0bc0fe69","pinned":true,"visible":false},{"id":"workbench.views.service.auxiliarybar.6da30956-a1af-440c-b603-076d088087f3","pinned":true,"visible":false}]'
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.viewContainer.agentSessions","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":17}]'
 workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.viewContainer.a\
   gentSessions\",\"themeIcon\":{\"id\":\"chat-sessions-icon\"},\"name\":\"Agents\
   \",\"isBuiltin\":true,\"views\":[{\"when\":\"!chatSetupDisabled &&
   !chatSetupHidden && config.chat.agentSessionsViewLocation ==
   'single-view'\"}]},{\"id\":\"workbench.panel.chat\",\"themeIcon\":{\"id\":\"c\
   hat-sparkle\"},\"name\":\"Chat\",\"isBuiltin\":true,\"views\":[{\"when\":\"ch\
-  atExtensionInvalid || chatPanelParticipantRegistered || !chatSetupDisabled &&
-  !chatSetupHidden\"}]},{\"id\":\"workbench.view.extension.todo-tree-container\
-  \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/gruntfuggly.tod\
-  o-tree-0.0.226/resources/todo-tree-container.svg\",\"scheme\":\"file\"},\"name\
-  \":\"TODOs\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.views.serv\
-  ice.auxiliarybar.30d88904-6e7e-4ef1-aa47-0c77b1879355\",\"iconUrl\":{\"$mid\"\
-  :1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-vsliveshare.vsliveshare-1.0.5959/ima\
-  ges/dark/liveshare.svg\",\"scheme\":\"file\"},\"name\":\"Live
-  Share\",\"isBuiltin\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\
-  \"},{\"when\":\"liveshare:isCollaborating && liveshare:showExplorer &&
-  liveshare:showHelpViewlet\"},{\"when\":\"npm:showScriptExplorer\"}]},{\"id\":\
-  \"workbench.views.service.auxiliarybar.a11a3055-4b66-4092-bc8a-cb4a0bc0fe69\",\
-  \"name\":\"workbench.views.service.auxiliarybar.a11a3055-4b66-4092-bc8a-cb4a0\
-  bc0fe69\",\"isBuiltin\":false},{\"id\":\"workbench.views.service.auxiliarybar\
-  .6da30956-a1af-440c-b603-076d088087f3\",\"name\":\"workbench.views.service.au\
-  xiliarybar.6da30956-a1af-440c-b603-076d088087f3\",\"isBuiltin\":false}]"
+  atPanelParticipantRegistered && !chatExtensionInvalid && !chatSetupDisabled &&
+  !chatSetupHidden &&
+  !config.chat.disableAIFeatures\"}]},{\"id\":\"workbench.view.extension.todo-t\
+  ree-container\",\"name\":\"TODOs\",\"isBuiltin\":false}]"
 workbench.auxiliaryBar.size: "256"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["toml",true],["pip-requirements",true],["shellscript",true],["properties",true],["dockerfile",true],["json",true],["dockercompose",true],["jsonc",true],["python",true],["plaintext",true],["yaml",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"xmlTreeView","isHidden":false},{"id":"abm.welcomeView","isHidden":false},{"id":"abm.infoView","isHidden":false},{"id":"platformio-ide.projectTasks","isHidden":false},{"id":"platformio-ide.quickAccess","isHidden":false},{"id":"cSpellInfoView","isHidden":false},{"id":"cSpellRegExpView","isHidden":false},{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false},{"id":"denoTasks","isHidden":true},{"id":"abm.docsView","isHidden":false},{"id":"protobufOptionInspector","isHidden":false},{"id":"prettyTsErrors.markdownPreview","isHidden":false}]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"xmlTreeView","isHidden":false},{"id":"protobufOptionInspector","isHidden":false},{"id":"prettyTsErrors.markdownPreview","isHidden":false}]'
 workbench.grid.size: '{"height":752,"width":1024}'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -1029,16 +260,14 @@ workbench.panel.lastNonMaximizedHeight: "300"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.views.service.panel.9e5965ac-9bc4-4175-8323-241e82e3e209","pinned":true,"visible":false},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.lightspeed-training-match-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.vscode-serial-monitor-tools","pinned":true,"visible":false,"order":7},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.views.service.panel.facb14e5-3302-4be8-b554-05a7969e58fc","pinned":true,"visible":false},{"id":"workbench.views.service.panel.686ac212-fd92-42f5-91a6-e2781cf23821","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.lightspeed-training-match-panel","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.vscode-serial-monitor-tools","pinned":true,"visible":false,"order":7},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
-  Console","isBuiltin":true,"views":[]},{"id":"terminal","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
-  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.9e5965ac-9bc4-4175-8323-241e82e3e209","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-vscode.vscode-serial-monitor-0.13.1/assets/icons/SerialMonitor_128.png","scheme":"file"},"name":"Serial
-  Monitor","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"}]},{"id":"workbench.view.extension.lightspeed-training-match-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/redhat.ansible-25.12.3/images/ansible.svg","scheme":"file"},"name":"Ansible","isBuiltin":false,"views":[]},{"id":"workbench.view.extension.vscode-serial-monitor-tools","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/ms-vscode.vscode-serial-monitor-0.13.1/assets/icons/SerialMonitor_128.png","scheme":"file"},"name":"Serial
-  Monitor","isBuiltin":false,"views":[]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
-  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.views.service.panel.facb14e5-3302-4be8-b554-05a7969e58fc","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.686ac212-fd92-42f5-91a6-e2781cf23821","name":"User
-  View Container","isBuiltin":true,"views":[{"when":"liveshare:isCollaborating
-  && liveshare:showExplorer"}]}]'
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
+  &&
+  jupyter:showTagsExplorer"}]},{"id":"workbench.view.extension.lightspeed-training-match-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/redhat.ansible-25.12.3-universal/images/ansible.svg","scheme":"file"},"name":"Ansible","isBuiltin":false,"views":[{"when":"redhat.ansible.lightspeedSuggestionsEnabled"}]},{"id":"workbench.view.extension.vscode-serial-monitor-tools","name":"Serial
+  Monitor","isBuiltin":false},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "250"
 workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
@@ -1082,7 +311,7 @@ workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.popu
 workbench.view.remote.state.hidden: '[{"id":"remoteHub.views.workspaceRepositories","isHidden":false},{"id":"github.codespaces.explorer","isHidden":false},{"id":"github.codespaces.performanceExplorer","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"sshHosts","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"github.codespaces.warnExplorer","isHidden":false},{"id":"remoteTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
-workbench.views.extensions.installed.size: "93"
+workbench.views.extensions.installed.size: "69"
 workbench.views.extensions.local.installed.size: "97"
 workbench.views.extensions.remote.installed.size: "3"
 workbench.views.service.auxiliarybar.30d88904-6e7e-4ef1-aa47-0c77b1879355.state.hidden:
@@ -1093,5 +322,5 @@ workbench.views.service.panel.686ac212-fd92-42f5-91a6-e2781cf23821.state.hidden:
 workbench.views.service.panel.9e5965ac-9bc4-4175-8323-241e82e3e209.state.hidden: '[{"id":"vscode-serial-monitor.monitor0","isHidden":false}]'
 workbench.views.service.panel.facb14e5-3302-4be8-b554-05a7969e58fc.state.hidden: '[{"id":"terminal","isHidden":false}]'
 workbench.welcomePage.hiddenCategories: '["Intermediate","Setup","ms-python.python#pythonWelcome","Beginner","ms-azuretools.vscode-docker#dockerStart","ms-vscode-remote.remote-wsl#wslWelcome","redhat.ansible#create-ansible-environment"]'
-workbench.welcomePage.walkthroughMetadata: '[["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1733944549196,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1733944549196,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1733944549196,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1733944549196,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1733944549196,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-vscode.cpptools#cppWelcome",{"firstSeen":1733944549196,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["ms-vscode.remote-repositories#remoteRepositoriesWalkthrough",{"firstSeen":1733944549196,"stepIDs":["editCommitRepo","createGitHubPullRequest","continueOn","openRepo","remoteIndicator"],"manaullyOpened":false}],["rust-lang.rust-analyzer#landing",{"firstSeen":1733944549196,"stepIDs":["setup","docs","faq","changelog"],"manaullyOpened":false}],["platformio.platformio-ide#platformio-ide.welcome",{"firstSeen":1734472389367,"stepIDs":["platformio-core","platformio.ini","platformio-home","explore-more-resources","ready-to-start"],"manaullyOpened":false}],["redhat.ansible#create-ansible-environment",{"firstSeen":1743461664586,"stepIDs":["create-ansible-playbook","check-ansible-tag","install-ansible-development-package"],"manaullyOpened":false}],["redhat.ansible#start-automating-playbook",{"firstSeen":1743461664586,"stepIDs":["enable-lightspeed-playbook","create-project-playbook","create-ansible-playbook","save-ansible-playbook","learn-more-playbook"],"manaullyOpened":false}],["redhat.ansible#discover-ansible-development-tools",{"firstSeen":1743461664586,"stepIDs":["adt-create","adt-test","adt-deploy","adt-where-to-start"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1745210939459,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["ms-azuretools.vscode-containers#containersStart",{"firstSeen":1749779607212,"stepIDs":["chooseContainerRuntime","openFolder","openFolderMac","scaffold","buildImage","runContainer","containerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}]]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1733944549196,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1733944549196,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1733944549196,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1733944549196,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1733944549196,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-vscode.cpptools#cppWelcome",{"firstSeen":1733944549196,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["ms-vscode.remote-repositories#remoteRepositoriesWalkthrough",{"firstSeen":1733944549196,"stepIDs":["editCommitRepo","createGitHubPullRequest","continueOn","openRepo","remoteIndicator"],"manaullyOpened":false}],["rust-lang.rust-analyzer#landing",{"firstSeen":1733944549196,"stepIDs":["setup","docs","faq","changelog"],"manaullyOpened":false}],["platformio.platformio-ide#platformio-ide.welcome",{"firstSeen":1734472389367,"stepIDs":["platformio-core","platformio.ini","platformio-home","explore-more-resources","ready-to-start"],"manaullyOpened":false}],["redhat.ansible#create-ansible-environment",{"firstSeen":1743461664586,"stepIDs":["create-ansible-playbook","check-ansible-tag","install-ansible-development-package"],"manaullyOpened":false}],["redhat.ansible#start-automating-playbook",{"firstSeen":1743461664586,"stepIDs":["enable-lightspeed-playbook","create-project-playbook","create-ansible-playbook","save-ansible-playbook","learn-more-playbook"],"manaullyOpened":false}],["redhat.ansible#discover-ansible-development-tools",{"firstSeen":1743461664586,"stepIDs":["adt-create","adt-test","adt-deploy","adt-where-to-start"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1745210939459,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["ms-azuretools.vscode-containers#containersStart",{"firstSeen":1749779607212,"stepIDs":["chooseContainerRuntime","openFolder","openFolderMac","scaffold","buildImage","runContainer","containerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["hverlin.mise-vscode#mise-getting-started",{"firstSeen":1767477243368,"stepIDs":["auto-configure","explore"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.1"}'

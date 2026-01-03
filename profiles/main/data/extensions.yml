@@ -1,16 +1,10 @@
 disabled:
-  - id: GitHub.copilot
-    uuid: 00000000-0000-0000-0000-000000000000
   - id: JackMacWindows.craftos-pc
-    uuid: 72505374-ad51-48c5-af6a-34ab798ef268
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: JackMacWindows.vscode-computercraft
-    uuid: eabaafc5-a6cd-46e0-ae4f-5fa96bb987af
-  - id: kdl-org.kdl
-    uuid: 85fc99f6-11df-44ee-91ed-ae96cfa2d7ac
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: lemmmy.computercraft-extension-pack
     uuid: ccb482d7-1c76-4f46-b75d-6d773dc7d6ff
-  - id: marlinfirmware.auto-build
-    uuid: aeed6cc8-3e27-4932-8212-161d73cdee2d
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-vscode.cmake-tools
@@ -18,22 +12,18 @@ disabled:
   - id: ms-vscode.powershell
     uuid: 40d39ce9-c381-47a0-80c8-a6661f731eab
   - id: Nuxt.mdc
-    uuid: 53bfb95c-4567-441b-b6fe-a8ccb555bcd4
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: pomdtr.excalidraw-editor
     uuid: 3dc917d8-e986-4abf-8159-6fc2233995bd
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: twxs.cmake
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
-  - id: yinfei.luahelper
-    uuid: d3707c86-e17d-4f81-ae03-bbfae896128b
 enabled:
   - id: antfu.goto-alias
     uuid: 11d92849-00ea-4f8e-b0e4-d28f3ce65652
   - id: antfu.iconify
     uuid: 14933acc-ee13-48c1-9320-e39310c683b1
-  - id: bierner.markdown-checkbox
-    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: charliermarsh.ruff
@@ -46,6 +36,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: denoland.vscode-deno
     uuid: 91881318-cfd0-4905-adb7-f4e431ca1ead
+  - id: detachhead.basedpyright
+    uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
   - id: donjayamanne.githistory
     uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: DotJoshJohnson.xml
@@ -60,14 +52,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: foxundermoon.shell-format
     uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
-  - id: GitHub.codespaces
-    uuid: 4023d3e5-c840-4cdd-8b54-51c77548aa3f
-  - id: GitHub.copilot-chat
-    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
-  - id: GitHub.remotehub
-    uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: GitHub.vscode-pull-request-github
@@ -80,12 +66,6 @@ enabled:
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: hverlin.mise-vscode
     uuid: 92fb523e-77c1-43a6-81f9-859a220809ec
-  - id: jithurjacob.nbpreviewer
-    uuid: c5a0e020-41e5-4180-aadc-85aa7c4e0517
-  - id: josetr.cmake-language-support-vscode
-    uuid: dce141da-393b-4514-9f89-18dc85ccc626
-  - id: kdl-org.kdl-v1
-    uuid: deab37c7-6a41-432b-b6ed-2ffa7b5886b7
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mhutchie.git-graph
@@ -94,8 +74,6 @@ enabled:
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
-  - id: ms-dotnettools.csharp
-    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
   - id: ms-dotnettools.vscode-dotnet-runtime
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-python.debugpy
@@ -104,56 +82,30 @@ enabled:
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-python.vscode-python-envs
     uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-toolsai.jupyter
     uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-toolsai.jupyter-keymap
     uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
-  - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
-  - id: ms-vscode-remote.remote-ssh
-    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
-  - id: ms-vscode-remote.remote-ssh-edit
-    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
-  - id: ms-vscode-remote.remote-wsl
-    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
-  - id: ms-vscode-remote.vscode-remote-extensionpack
-    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
-  - id: ms-vscode.azure-repos
-    uuid: 25cfa506-1433-4595-a73f-61666807126d
-  - id: ms-vscode.cpptools
-    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
-  - id: ms-vscode.cpptools-extension-pack
-    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
   - id: ms-vscode.cpptools-themes
     uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.hexeditor
     uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
-  - id: ms-vscode.remote-explorer
-    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
-  - id: ms-vscode.remote-repositories
-    uuid: cf5142f0-3701-4992-980c-9895a750addf
-  - id: ms-vscode.remote-server
-    uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
-  - id: ms-vscode.vscode-markdown-notebook
-    uuid: 51539c9d-d2a9-47e7-8d19-7124881e5f50
-  - id: ms-vscode.vscode-serial-monitor
-    uuid: 17dcad22-0c4b-428f-8a04-5d2629f1480e
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
-  - id: ms-vsliveshare.vsliveshare
-    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: Nuxtr.nuxt-vscode-extentions
     uuid: 2c1d86ef-976a-48be-81d4-6bf70c9547c8
   - id: Nuxtr.nuxtr-vscode
     uuid: 91f56290-03a6-4860-bd71-7f7dce888548
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
-  - id: platformio.platformio-ide
-    uuid: 9d96b65c-c227-4a9e-80b7-e52b8a58c5f2
   - id: Prunoideae.probejs
     uuid: adbe2a60-6bb6-44b7-983b-1548abaca655
   - id: redhat.ansible
@@ -168,8 +120,6 @@ enabled:
     uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
-  - id: subtixx.opencomputerslua
-    uuid: ef54c409-3cfb-4003-92b1-96a1854128e1
   - id: sumneko.lua
     uuid: 3a15b5a7-be12-47e3-8445-88ee3eabc8b2
   - id: svelte.svelte-vscode
