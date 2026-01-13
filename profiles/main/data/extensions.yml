@@ -24,6 +24,8 @@ enabled:
     uuid: 11d92849-00ea-4f8e-b0e4-d28f3ce65652
   - id: antfu.iconify
     uuid: 14933acc-ee13-48c1-9320-e39310c683b1
+  - id: astral-sh.ty
+    uuid: 06854e4c-1253-4639-aa05-1fe79daa704a
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: charliermarsh.ruff

@@ -18,7 +18,7 @@
     //     "--show-column-numbers",
     //     "--no-pretty"
     // ],
-    "python.languageServer": "Pylance",
+    "python.languageServer": "None",
     "python.poetryPath": "poetry",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "editor.semanticHighlighting.enabled": true,

@@ -99,7 +99,7 @@ redhat.vscode-yaml: '{"json-schema-key":{"https://raw.githubusercontent.com/ansi
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 Vue.volar: '{"vue.welcome":"3.1.0"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.mise-panel","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.platformio","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.PowerShellCommandExplorer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.craftos-terminals","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.zenscript-explorer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":true,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.trunkContainer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":23},{"id":"workbench.view.extension.ansible-explorer","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":15},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.mise-panel","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.platformio","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.PowerShellCommandExplorer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.craftos-terminals","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.zenscript-explorer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":true,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.trunkContainer","pinned":false,"visible":false,"order":18},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":23},{"id":"workbench.view.extension.ansible-explorer","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":11},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -130,13 +130,61 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
   '0'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\"extens\
-  ions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[]},{\
-  \"id\":\"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\"chat-sessions\
-  -icon\",\"description\":\"Icon for Agent Sessions
+  ions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"wh\
+  en\":\"defaultExtensionViews && extensionsGalleryStatus == 'accessDenied' ||
+  defaultExtensionViews && extensionsGalleryStatus == 'requiresSignIn' ||
+  searchMarketplaceExtensions && extensionsGalleryStatus == 'accessDenied' ||
+  searchMarketplaceExtensions && extensionsGalleryStatus ==
+  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
+  tensionUpdates ||
+  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledMcpServers &&
+  !chatSetupHidden\"},{\"when\":\"config.chat.mcp.gallery.enabled &&
+  defaultExtensionViews && !chatSetupHidden && !config.chat.disableAIFeatures &&
+  !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' ||
+  config.chat.mcp.gallery.serviceUrl && defaultExtensionViews &&
+  !chatSetupHidden && !config.chat.disableAIFeatures && !hasInstalledMcpServers
+  && mcpServersGalleryStatus == 'available' || defaultExtensionViews &&
+  !chatSetupHidden && !config.chat.disableAIFeatures && !hasInstalledMcpServers
+  && mcpServersGalleryStatus == 'available' && productQualityType !=
+  'stable'\"},{\"when\":\"defaultExtensionViews && !chatSetupHidden &&
+  !config.chat.disableAIFeatures && !config.chat.mcp.gallery.enabled &&
+  !config.chat.mcp.gallery.serviceUrl && !hasInstalledMcpServers &&
+  mcpServersGalleryStatus == 'available' && productQualityType ==
+  'stable'\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"hasGallery &&
+  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"con\
+  fig.chat.mcp.gallery.enabled && searchMcpServers && !chatSetupHidden &&
+  mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
+  && searchMcpServers && !chatSetupHidden && mcpServersGalleryStatus ==
+  'available' || searchMcpServers && !chatSetupHidden && mcpServersGalleryStatus
+  == 'available' && productQualityType !=
+  'stable'\"},{\"when\":\"searchMcpServers && !chatSetupHidden &&
+  !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
+  mcpServersGalleryStatus == 'available' && productQualityType ==
+  'stable'\"}]},{\"id\":\"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\
+  \"chat-sessions-icon\",\"description\":\"Icon for Agent Sessions
   View\",\"defaults\":{\"id\":\"comment-discussion-sparkle\"}},\"name\":\"Agent
-  Sessions\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
-  n.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isB\
-  uiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
+  Sessions\",\"isBuiltin\":true,\"views\":[{\"when\":\"!chatSetupDisabled &&
+  !chatSetupHidden && config.chat.agentSessionsViewLocation ==
+  'view'\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\
+  \"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\
+  \":\"testing.providerCount >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
@@ -197,7 +245,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   iner\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlens\",\"is\
   Builtin\":false},{\"id\":\"workbench.view.extension.mongoDB\",\"isBuiltin\":f\
   alse},{\"id\":\"workbench.view.extension.github-actions\",\"iconUrl\":{\"$mid\
-  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/github.vscode-github-actions-0.28.2-u\
+  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/github.vscode-github-actions-0.29.1-u\
   niversal/resources/icons/light/explorer.svg\",\"scheme\":\"file\"},\"name\":\
   \"GitHub
   Actions\",\"isBuiltin\":false,\"views\":[{\"when\":\"github-actions.has-repos
@@ -213,15 +261,15 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   ontainer\",\"name\":\"Rust Syntax
   Tree\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.ansible-explor\
   er\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/redhat.ansibl\
-  e-25.12.3-universal/images/ansible.svg\",\"scheme\":\"file\"},\"name\":\"Ansi\
-  ble\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"config.ansible.lightspeed\
-  .enabled\"},{\"when\":\"config.ansible.lightspeed.enabled\"}]},{\"id\":\"work\
-  bench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EX\
-  TENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.3.0-universal/resources\
-  /ContainerTools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\
+  e-26.1.0-universal/images/ansible.svg\",\"scheme\":\"file\"},\"name\":\"Ansib\
+  le\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"config.ansible.lightspeed.\
+  enabled\"},{\"when\":\"config.ansible.lightspeed.enabled\"}]},{\"id\":\"workb\
+  ench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXT\
+  ENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.3.0-universal/resources/\
+  ContainerTools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\
   \":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension\
   .python\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-pytho\
-  n.vscode-python-envs-1.14.0-universal/files/logo.svg\",\"scheme\":\"file\"},\
+  n.vscode-python-envs-1.16.0-universal/files/logo.svg\",\"scheme\":\"file\"},\
   \"name\":\"Python\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.python.\
   useEnvironmentsExtension\"},{\"when\":\"config.python.useEnvironmentsExtension\
   \"}]},{\"id\":\"workbench.view.extension.jupyter\",\"themeIcon\":{\"id\":\"no\
@@ -249,7 +297,7 @@ workbench.auxiliarybar.placeholderPanels: "[{\"id\":\"workbench.viewContainer.a\
   ree-container\",\"name\":\"TODOs\",\"isBuiltin\":false}]"
 workbench.auxiliaryBar.size: "256"
 workbench.chat.hideMovedChatWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["toml",true],["pip-requirements",true],["shellscript",true],["properties",true],["dockerfile",true],["json",true],["dockercompose",true],["jsonc",true],["python",true],["plaintext",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ignore",true],["toml",true],["pip-requirements",true],["shellscript",true],["properties",true],["dockerfile",true],["json",true],["dockercompose",true],["python",true],["plaintext",true],["yaml",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"denoTasks","isHidden":true},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"xmlTreeView","isHidden":false},{"id":"protobufOptionInspector","isHidden":false},{"id":"prettyTsErrors.markdownPreview","isHidden":false}]'
 workbench.grid.size: '{"height":752,"width":1024}'
 workbench.panel.alignment: center
@@ -265,7 +313,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
   Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
   &&
-  jupyter:showTagsExplorer"}]},{"id":"workbench.view.extension.lightspeed-training-match-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/redhat.ansible-25.12.3-universal/images/ansible.svg","scheme":"file"},"name":"Ansible","isBuiltin":false,"views":[{"when":"redhat.ansible.lightspeedSuggestionsEnabled"}]},{"id":"workbench.view.extension.vscode-serial-monitor-tools","name":"Serial
+  jupyter:showTagsExplorer"}]},{"id":"workbench.view.extension.lightspeed-training-match-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/redhat.ansible-26.1.0-universal/images/ansible.svg","scheme":"file"},"name":"Ansible","isBuiltin":false,"views":[{"when":"redhat.ansible.lightspeedSuggestionsEnabled"}]},{"id":"workbench.view.extension.vscode-serial-monitor-tools","name":"Serial
   Monitor","isBuiltin":false},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
@@ -311,7 +359,7 @@ workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.popu
 workbench.view.remote.state.hidden: '[{"id":"remoteHub.views.workspaceRepositories","isHidden":false},{"id":"github.codespaces.explorer","isHidden":false},{"id":"github.codespaces.performanceExplorer","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"sshHosts","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"github.codespaces.warnExplorer","isHidden":false},{"id":"remoteTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
-workbench.views.extensions.installed.size: "69"
+workbench.views.extensions.installed.size: "71"
 workbench.views.extensions.local.installed.size: "97"
 workbench.views.extensions.remote.installed.size: "3"
 workbench.views.service.auxiliarybar.30d88904-6e7e-4ef1-aa47-0c77b1879355.state.hidden:
