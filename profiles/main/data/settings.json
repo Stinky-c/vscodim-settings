@@ -1,10 +1,4 @@
 {
-    "syncSettings.resources": [
-        "extensions",
-        "keybindings",
-        "settings",
-        "tasks"
-    ],
     "editor.formatOnSave": true,
     "[python]": {
         // "editor.defaultFormatter": "ms-python.black-formatter",
@@ -62,9 +56,12 @@
     "workbench.colorTheme": "GitHub Dark Dimmed",
     "docker.contexts.label": "DockerEndpoint",
     "docker.images.label": "FullTag",
+    "vscode-pets.theme": "forest",
     "explorer.confirmDragAndDrop": false,
     "git.autofetch": true,
+    "remoteHub.commitDirectlyWarning": "off",
     "git.confirmSync": false,
+    "python.defaultInterpreterPath": "C:\\Users\\bent0\\.pyenv\\pyenv-win\\versions\\3.11.3\\python.exe",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
     "files.associations": {
@@ -84,6 +81,13 @@
         "**/.ruff_cache": true,
         "**/node_modules": true
     },
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.322.6-hotspot",
+            "default": true
+        }
+    ],
     "http.systemCertificates": false,
     "http.proxyStrictSSL": false,
     "settingsSync.ignoredExtensions": [
@@ -98,6 +102,21 @@
             "indent": 4
         }
     },
+    "cSpell.enableFiletypes": [
+        "!json",
+        "!jsonc",
+        "!plaintext",
+        "!python",
+        "!rust",
+        "!scss",
+        "!swift",
+        "!typescript",
+        "!vue",
+        "!yaml",
+        "!yml"
+    ],
+    "cSpell.language": "en,en-US",
+    "gitlens.hovers.enabled": false,
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
@@ -215,6 +234,7 @@
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "craftos-pc.executablePath.windows": "C:\\Users\\bent0\\AppData\\Local\\CraftOS-PC\\CraftOS-PC_console.exe",
     "[yaml]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -227,10 +247,19 @@
     },
     "editor.gotoLocation.multipleDefinitions": "goto",
     "vue.server.hybridMode": false,
+    "platformio-ide.autoOpenPlatformIOIniFile": false,
     "ansible.lightspeed.enabled": false,
     "containers.contexts.label": "DockerEndpoint",
     "containers.images.label": "FullTag",
+    "docker.extension.enableComposeLanguageServer": false,
+    "docker.lsp.telemetry": "error",
     "telemetry.telemetryLevel": "crash",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
     "terminal.integrated.stickyScroll.enabled": false,
     "python.analysis.typeCheckingMode": "standard",
     "[github-actions-workflow]": {
