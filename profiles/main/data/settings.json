@@ -1,4 +1,9 @@
 {
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+    ],
     "editor.formatOnSave": true,
     "[python]": {
         // "editor.defaultFormatter": "ms-python.black-formatter",
