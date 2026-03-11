@@ -275,4 +275,30 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "github.copilot.nextEditSuggestions.enabled": true,
+    "[mdx]": {
+        "editor.defaultFormatter": "unifiedjs.vscode-mdx"
+    },
+    "workbench.editorAssociations": {
+        "*.md": "markdownEditorOptimized.editor",
+        "git:**/*.md": "default",
+        "git:/**/*.md": "default",
+        "chat-editing-text-model:**/*.md": "default",
+        "chat-editing-text-model:/**/*.md": "default",
+        "*.markdown": "markdownEditorOptimized.editor",
+        "git:**/*.markdown": "default",
+        "git:/**/*.markdown": "default",
+        "chat-editing-text-model:**/*.markdown": "default",
+        "chat-editing-text-model:/**/*.markdown": "default",
+        "*.mdx": "markdownEditorOptimized.editor",
+        "git:**/*.mdx": "default",
+        "git:/**/*.mdx": "default",
+        "chat-editing-text-model:**/*.mdx": "default",
+        "chat-editing-text-model:/**/*.mdx": "default",
+        "*.mdc": "markdownEditorOptimized.editor",
+        "git:**/*.mdc": "default",
+        "git:/**/*.mdc": "default",
+        "chat-editing-text-model:**/*.mdc": "default",
+        "chat-editing-text-model:/**/*.mdc": "default"
+    },
+    "markdownEditorOptimized.autoSave.enabled": true
 }
