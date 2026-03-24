@@ -86,13 +86,6 @@
         "**/.ruff_cache": true,
         "**/node_modules": true
     },
-    "java.configuration.runtimes": [
-        {
-            "name": "JavaSE-1.8",
-            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.322.6-hotspot",
-            "default": true
-        }
-    ],
     "http.systemCertificates": false,
     "http.proxyStrictSSL": false,
     "settingsSync.ignoredExtensions": [
@@ -102,25 +95,6 @@
     ],
     "editor.unicodeHighlight.invisibleCharacters": false,
     "debug.javascript.autoAttachFilter": "disabled",
-    "markdownlint.config": {
-        "ul-indent": {
-            "indent": 4
-        }
-    },
-    "cSpell.enableFiletypes": [
-        "!json",
-        "!jsonc",
-        "!plaintext",
-        "!python",
-        "!rust",
-        "!scss",
-        "!swift",
-        "!typescript",
-        "!vue",
-        "!yaml",
-        "!yml"
-    ],
-    "cSpell.language": "en,en-US",
     "gitlens.hovers.enabled": false,
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
@@ -224,7 +198,7 @@
         "prettier.useTabs": false
     },
     "[markdown]": {
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "task.allowAutomaticTasks": "on",
     "git.openRepositoryInParentFolders": "never",
@@ -256,14 +230,9 @@
     "ansible.lightspeed.enabled": false,
     "containers.contexts.label": "DockerEndpoint",
     "containers.images.label": "FullTag",
-    "docker.extension.enableComposeLanguageServer": false,
-    "docker.lsp.telemetry": "error",
     "telemetry.telemetryLevel": "crash",
     "github.copilot.enable": {
         "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
     },
     "terminal.integrated.stickyScroll.enabled": false,
     "python.analysis.typeCheckingMode": "standard",
@@ -274,31 +243,9 @@
     "[scss]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.nextEditSuggestions.enabled": false,
     "[mdx]": {
         "editor.defaultFormatter": "unifiedjs.vscode-mdx"
     },
-    "workbench.editorAssociations": {
-        "*.md": "markdownEditorOptimized.editor",
-        "git:**/*.md": "default",
-        "git:/**/*.md": "default",
-        "chat-editing-text-model:**/*.md": "default",
-        "chat-editing-text-model:/**/*.md": "default",
-        "*.markdown": "markdownEditorOptimized.editor",
-        "git:**/*.markdown": "default",
-        "git:/**/*.markdown": "default",
-        "chat-editing-text-model:**/*.markdown": "default",
-        "chat-editing-text-model:/**/*.markdown": "default",
-        "*.mdx": "markdownEditorOptimized.editor",
-        "git:**/*.mdx": "default",
-        "git:/**/*.mdx": "default",
-        "chat-editing-text-model:**/*.mdx": "default",
-        "chat-editing-text-model:/**/*.mdx": "default",
-        "*.mdc": "markdownEditorOptimized.editor",
-        "git:**/*.mdc": "default",
-        "git:/**/*.mdc": "default",
-        "chat-editing-text-model:**/*.mdc": "default",
-        "chat-editing-text-model:/**/*.mdc": "default"
-    },
-    "markdownEditorOptimized.autoSave.enabled": true
+    "harper.dialect": "American",
 }
