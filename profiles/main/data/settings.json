@@ -66,7 +66,6 @@
     "git.autofetch": true,
     "remoteHub.commitDirectlyWarning": "off",
     "git.confirmSync": false,
-    "python.defaultInterpreterPath": "C:\\Users\\bent0\\.pyenv\\pyenv-win\\versions\\3.11.3\\python.exe",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
     "files.associations": {
@@ -123,9 +122,9 @@
         "IDEA",
         "FEAT"
     ],
-    "editor.fontFamily": "Monaspace Neon Var, Monaspace Neon NF, Noto Emoji",
+    "editor.fontFamily": "Monaspace Neon Var, JetBrainsMono Nerd Font Mono",
     // "terminal.integrated.fontFamily": "Fira Code Regular, Consolas, 'Courier New', monospace",
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font, Consolas",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
     "editor.fontWeight": "300",
     "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss08', 'calt'",
     "editor.codeLensFontFamily": "Monaspace Krypton Var",
@@ -248,4 +247,5 @@
         "editor.defaultFormatter": "unifiedjs.vscode-mdx"
     },
     "harper.dialect": "American",
+    "harper."
 }
