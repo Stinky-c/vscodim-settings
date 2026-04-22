@@ -1,17 +1,11 @@
 disabled:
-  - id: pomdtr.excalidraw-editor
-    uuid: 3dc917d8-e986-4abf-8159-6fc2233995bd
-  - id: tauri-apps.tauri-vscode
-    uuid: 53763e89-ec31-4d0c-b220-f714761180e5
+  - id: elijah-potter.harper
+    uuid: 67361f9a-6018-4ea8-9fd2-37b4de177c4e
 enabled:
   - id: antfu.iconify
     uuid: 14933acc-ee13-48c1-9320-e39310c683b1
-  - id: astral-sh.ty
-    uuid: 06854e4c-1253-4639-aa05-1fe79daa704a
   - id: astro-build.astro-vscode
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
-  - id: bradlc.vscode-tailwindcss
-    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: codezombiech.gitignore
@@ -22,14 +16,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: detachhead.basedpyright
     uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
-  - id: donjayamanne.githistory
-    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
-  - id: ecmel.vscode-html-css
-    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
-  - id: elijah-potter.harper
-    uuid: 67361f9a-6018-4ea8-9fd2-37b4de177c4e
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: foxundermoon.shell-format
@@ -38,24 +26,16 @@ enabled:
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: Gruntfuggly.todo-tree
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: hverlin.mise-vscode
     uuid: 92fb523e-77c1-43a6-81f9-859a220809ec
-  - id: mechatroner.rainbow-csv
-    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
-  - id: mhutchie.git-graph
-    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: ms-azuretools.vscode-containers
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
-  - id: ms-dotnettools.vscode-dotnet-runtime
-    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
@@ -66,8 +46,6 @@ enabled:
     uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
-  - id: Nuxtr.nuxtr-vscode
-    uuid: 91f56290-03a6-4860-bd71-7f7dce888548
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: redhat.ansible
@@ -80,8 +58,6 @@ enabled:
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
-  - id: Vue.volar
-    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: wholroyd.jinja
     uuid: c941a679-d500-46a8-b2a9-208063125901
   - id: YoavBls.pretty-ts-errors
